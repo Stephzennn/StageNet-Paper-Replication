@@ -1,0 +1,12 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+40601,182879,1,41001,"AMI anterolateral, init","Acute myocardial infarction of anterolateral wall, initial episode of care",279529,Acute myocardial infarction,1
+40601,182879,2,42821,Ac systolic hrt failure,Acute systolic heart failure,279529,Congestive heart failure; nonhypertensive,1
+40601,182879,3,78551,Cardiogenic shock,Cardiogenic shock,279529,Shock,1
+40601,182879,4,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",279529,Urinary tract infections,0
+40601,182879,5,4280,CHF NOS,"Congestive heart failure, unspecified",279529,Congestive heart failure; nonhypertensive,1
+40601,182879,6,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,279529,Coronary atherosclerosis and other heart disease,1
+40601,182879,7,4019,Hypertension NOS,Unspecified essential hypertension,279529,Essential hypertension,1
+40601,182879,8,27801,Morbid obesity,Morbid obesity,279529,Other nutritional; endocrine; and metabolic disorders,0
+40601,182879,9,49390,Asthma NOS,"Asthma, unspecified type, unspecified",279529,Asthma,0
+40601,182879,10,42731,Atrial fibrillation,Atrial fibrillation,279529,Cardiac dysrhythmias,1
+40601,182879,11,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,279529,Disorders of lipid metabolism,1

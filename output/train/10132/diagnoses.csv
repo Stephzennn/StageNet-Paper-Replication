@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10132,197611,1,1124,Candidiasis of lung,Candidiasis of lung,292910,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+10132,197611,2,41519,Pulm embol/infarct NEC,Other pulmonary embolism and infarction,292910,Pulmonary heart disease,0
+10132,197611,3,0389,Septicemia NOS,Unspecified septicemia,292910,Septicemia (except in labor),1
+10132,197611,4,99591,Sepsis,Sepsis,292910,Septicemia (except in labor),1
+10132,197611,5,1983,Sec mal neo brain/spine,Secondary malignant neoplasm of brain and spinal cord,292910,Secondary malignancies,0
+10132,197611,6,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",292910,Acute myocardial infarction,1
+10132,197611,7,5121,Iatrogenic pneumothorax,Iatrogenic pneumothorax,292910,Complications of surgical procedures or medical care,1
+10132,197611,8,1622,Malig neo main bronchus,Malignant neoplasm of main bronchus,292910,Cancer of bronchus; lung,0
+10132,197611,9,V1042,Hx-uterus malignancy NEC,Personal history of malignant neoplasm of other parts of uterus,292910,Cancer of uterus,0

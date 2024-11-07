@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10040,157839,1,40291,Hyp ht dis NOS w ht fail,Unspecified hypertensive heart disease with heart failure,272047,Hypertension with complications and secondary hypertension,1
+10040,157839,2,7907,Bacteremia,Bacteremia,272047,Septicemia (except in labor),1
+10040,157839,3,4928,Emphysema NEC,Other emphysema,272047,Chronic obstructive pulmonary disease and bronchiectasis,1
+10040,157839,4,51881,Acute respiratry failure,Acute respiratory failure,272047,Respiratory failure; insufficiency; arrest (adult),1
+10040,157839,5,4241,Aortic valve disorder,Aortic valve disorders,272047,Heart valve disorders,0
+10040,157839,6,4280,CHF NOS,"Congestive heart failure, unspecified",272047,Congestive heart failure; nonhypertensive,1
+10040,157839,7,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,272047,Coronary atherosclerosis and other heart disease,1
+10040,157839,8,2809,Iron defic anemia NOS,"Iron deficiency anemia, unspecified",272047,Deficiency and other anemia,0
+10040,157839,9,53081,Esophageal reflux,Esophageal reflux,272047,Esophageal disorders,0

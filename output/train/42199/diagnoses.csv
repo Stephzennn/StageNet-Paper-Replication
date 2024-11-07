@@ -1,0 +1,16 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+42199,178513,1,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",274509,Acute myocardial infarction,1
+42199,178513,2,43401,Crbl thrmbs w infrct,Cerebral thrombosis with cerebral infarction,274509,Acute cerebrovascular disease,1
+42199,178513,3,34290,Unsp hemiplga unspf side,"Hemiplegia, unspecified, affecting unspecified side",274509,Paralysis,0
+42199,178513,4,1570,Mal neo pancreas head,Malignant neoplasm of head of pancreas,274509,Cancer of pancreas,0
+42199,178513,5,1977,Second malig neo liver,"Malignant neoplasm of liver, secondary",274509,Secondary malignancies,0
+42199,178513,6,1970,Secondary malig neo lung,Secondary malignant neoplasm of lung,274509,Secondary malignancies,0
+42199,178513,7,99812,Hematoma complic proc,Hematoma complicating a procedure,274509,Complications of surgical procedures or medical care,1
+42199,178513,8,4531,Thrombophlebitis migrans,Thrombophlebitis migrans,274509,Phlebitis; thrombophlebitis and thromboembolism,0
+42199,178513,9,7907,Bacteremia,Bacteremia,274509,Septicemia (except in labor),1
+42199,178513,10,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",274509,Diabetes mellitus without complication,1
+42199,178513,11,4019,Hypertension NOS,Unspecified essential hypertension,274509,Essential hypertension,1
+42199,178513,12,V103,Hx of breast malignancy,Personal history of malignant neoplasm of breast,274509,Cancer of breast,0
+42199,178513,13,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,274509,Phlebitis; thrombophlebitis and thromboembolism,0
+42199,178513,14,2859,Anemia NOS,"Anemia, unspecified",274509,Deficiency and other anemia,0
+42199,178513,15,E8798,Abn react-procedure NEC,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",274509,Adverse effects of medical care,0

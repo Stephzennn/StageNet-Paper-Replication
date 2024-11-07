@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10069,146672,1,34591,Epilepsy NOS w intr epil,"Epilepsy, unspecified, with intractable epilepsy",290490,Epilepsy; convulsions,0
+10069,146672,2,51881,Acute respiratry failure,Acute respiratory failure,290490,Respiratory failure; insufficiency; arrest (adult),1
+10069,146672,3,78001,Coma,Coma,290490,Coma; stupor; and brain damage,0
+10069,146672,4,2762,Acidosis,Acidosis,290490,Fluid and electrolyte disorders,1
+10069,146672,5,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,290490,Aspiration pneumonitis; food/vomitus,0
+10069,146672,7,319,Intellect disability NOS,Unspecified intellectual disabilities,290490,Developmental disorders,0
+10069,146672,8,4280,CHF NOS,"Congestive heart failure, unspecified",290490,Congestive heart failure; nonhypertensive,1
+10069,146672,9,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",290490,Diabetes mellitus without complication,1

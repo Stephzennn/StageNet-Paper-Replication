@@ -1,0 +1,15 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10119,165436,1,53240,Chr duoden ulcer w hem,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",205589,Gastrointestinal hemorrhage,1
+10119,165436,2,42731,Atrial fibrillation,Atrial fibrillation,205589,Cardiac dysrhythmias,1
+10119,165436,3,53140,Chr stomach ulc w hem,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",205589,Gastrointestinal hemorrhage,1
+10119,165436,4,412,Old myocardial infarct,Old myocardial infarction,205589,Coronary atherosclerosis and other heart disease,1
+10119,165436,5,4019,Hypertension NOS,Unspecified essential hypertension,205589,Essential hypertension,1
+10119,157466,1,5750,Acute cholecystitis,Acute cholecystitis,247686,Biliary tract disease,0
+10119,157466,2,5754,Perforation gallbladder,Perforation of gallbladder,247686,Biliary tract disease,0
+10119,157466,3,42731,Atrial fibrillation,Atrial fibrillation,247686,Cardiac dysrhythmias,1
+10119,157466,4,7907,Bacteremia,Bacteremia,247686,Septicemia (except in labor),1
+10119,157466,5,5770,Acute pancreatitis,Acute pancreatitis,247686,Pancreatic disorders (not diabetes),0
+10119,157466,6,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",247686,Acute and unspecified renal failure,1
+10119,157466,8,34982,Toxic encephalopathy,Toxic encephalopathy,247686,Other nervous system disorders,0
+10119,157466,10,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,247686,Other aftercare,0
+10119,157466,11,4019,Hypertension NOS,Unspecified essential hypertension,247686,Essential hypertension,1

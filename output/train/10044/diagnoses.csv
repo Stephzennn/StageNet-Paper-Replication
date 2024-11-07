@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10044,124073,1,1983,Sec mal neo brain/spine,Secondary malignant neoplasm of brain and spinal cord,270154,Secondary malignancies,0
+10044,124073,2,6826,Cellulitis of leg,"Cellulitis and abscess of leg, except foot",270154,Skin and subcutaneous tissue infections,0
+10044,124073,3,1977,Second malig neo liver,"Malignant neoplasm of liver, secondary",270154,Secondary malignancies,0
+10044,124073,4,1970,Secondary malig neo lung,Secondary malignant neoplasm of lung,270154,Secondary malignancies,0
+10044,124073,5,42731,Atrial fibrillation,Atrial fibrillation,270154,Cardiac dysrhythmias,1
+10044,124073,6,4019,Hypertension NOS,Unspecified essential hypertension,270154,Essential hypertension,1
+10044,124073,7,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,270154,Coronary atherosclerosis and other heart disease,1
+10044,124073,8,5939,Renal & ureteral dis NOS,Unspecified disorder of kidney and ureter,270154,Other diseases of kidney and ureters,0
+10044,124073,9,28522,Anemia in neoplastic dis,Anemia in neoplastic disease,270154,Deficiency and other anemia,0

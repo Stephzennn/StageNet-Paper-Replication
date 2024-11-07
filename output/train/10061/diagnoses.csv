@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10061,145203,1,4280,CHF NOS,"Congestive heart failure, unspecified",223177,Congestive heart failure; nonhypertensive,1
+10061,145203,2,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",223177,Acute myocardial infarction,1
+10061,145203,3,0389,Septicemia NOS,Unspecified septicemia,223177,Septicemia (except in labor),1
+10061,145203,4,78551,Cardiogenic shock,Cardiogenic shock,223177,Shock,1
+10061,145203,5,78559,Shock w/o trauma NEC,Other shock without mention of trauma,223177,Shock,1
+10061,145203,6,51881,Acute respiratry failure,Acute respiratory failure,223177,Respiratory failure; insufficiency; arrest (adult),1
+10061,145203,7,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",223177,Acute and unspecified renal failure,1
+10061,145203,8,570,Acute necrosis of liver,Acute and subacute necrosis of liver,223177,Other liver diseases,1
+10061,145203,9,48282,Pneumonia e coli,Pneumonia due to escherichia coli [E. coli],223177,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1

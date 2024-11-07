@@ -1,0 +1,17 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+42275,128293,1,49121,Obs chr bronc w(ac) exac,Obstructive chronic bronchitis with (acute) exacerbation,290478,Chronic obstructive pulmonary disease and bronchiectasis,1
+42275,128293,2,1629,Mal neo bronch/lung NOS,"Malignant neoplasm of bronchus and lung, unspecified",290478,Cancer of bronchus; lung,0
+42275,128293,3,1961,Mal neo lymph-intrathor,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes,290478,Secondary malignancies,0
+42275,128293,4,193,Malign neopl thyroid,Malignant neoplasm of thyroid gland,290478,Cancer of thyroid,0
+42275,128293,5,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),290478,Residual codes; unclassified,0
+42275,128293,6,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",290478,Hypertension with complications and secondary hypertension,1
+42275,128293,7,5853,Chr kidney dis stage III,"Chronic kidney disease, Stage III (moderate)",290478,Chronic kidney disease,1
+42275,128293,8,78722,"Dysphagia, oropharyngeal","Dysphagia, oropharyngeal phase",290478,Other gastrointestinal disorders,0
+42275,128293,9,5303,Esophageal stricture,Stricture and stenosis of esophagus,290478,Esophageal disorders,0
+42275,128293,10,V4501,Status cardiac pacemaker,Cardiac pacemaker in situ,290478,Conduction disorders,1
+42275,128293,11,60000,BPH w/o urinary obs/LUTS,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),290478,Hyperplasia of prostate,0
+42275,128293,12,47833,Vocal paral bilat part,"Bilateral paralysis of vocal cords or larynx, partial",290478,Other upper respiratory disease,1
+42275,128293,13,V462,Depend-supplement oxygen,"Other dependence on machines, supplemental oxygen",290478,Respiratory failure; insufficiency; arrest (adult),1
+42275,128293,14,V1582,History of tobacco use,Personal history of tobacco use,290478,Screening and history of mental health and substance abuse codes,0
+42275,128293,15,V8741,Hx antineoplastic chemo,Personal history of antineoplastic chemotherapy,290478,Residual codes; unclassified,0
+42275,128293,16,V153,Hx of irradiation,"Personal history of irradiation, presenting hazards to health",290478,Residual codes; unclassified,0

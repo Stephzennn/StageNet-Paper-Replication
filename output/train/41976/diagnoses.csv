@@ -1,0 +1,252 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+41976,173269,1,03812,MRSA septicemia,Methicillin resistant Staphylococcus aureus septicemia,205170,Septicemia (except in labor),1
+41976,173269,2,78552,Septic shock,Septic shock,205170,Shock,1
+41976,173269,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",205170,Acute and unspecified renal failure,1
+41976,173269,4,0383,Anaerobic septicemia,Septicemia due to anaerobes,205170,Septicemia (except in labor),1
+41976,173269,5,99592,Severe sepsis,Severe sepsis,205170,Septicemia (except in labor),1
+41976,173269,6,4019,Hypertension NOS,Unspecified essential hypertension,205170,Essential hypertension,1
+41976,173269,7,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",205170,Diabetes mellitus with complications,1
+41976,173269,8,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,205170,Other nervous system disorders,0
+41976,173269,9,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,205170,Thyroid disorders,0
+41976,155297,1,0389,Septicemia NOS,Unspecified septicemia,209797,Septicemia (except in labor),1
+41976,155297,2,78552,Septic shock,Septic shock,209797,Shock,1
+41976,155297,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",209797,Acute and unspecified renal failure,1
+41976,155297,4,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",209797,Urinary tract infections,0
+41976,155297,5,2762,Acidosis,Acidosis,209797,Fluid and electrolyte disorders,1
+41976,155297,6,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,209797,Fluid and electrolyte disorders,1
+41976,155297,7,99592,Severe sepsis,Severe sepsis,209797,Septicemia (except in labor),1
+41976,155297,8,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",209797,Chronic ulcer of skin,0
+41976,155297,9,70722,"Pressure ulcer, stage II","Pressure ulcer, stage II",209797,Chronic ulcer of skin,0
+41976,155297,10,42731,Atrial fibrillation,Atrial fibrillation,209797,Cardiac dysrhythmias,1
+41976,155297,11,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,209797,Other aftercare,0
+41976,155297,12,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",209797,Diabetes mellitus with complications,1
+41976,155297,13,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,209797,Other nervous system disorders,0
+41976,155297,14,4019,Hypertension NOS,Unspecified essential hypertension,209797,Essential hypertension,1
+41976,155297,15,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,209797,Thyroid disorders,0
+41976,155297,16,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,209797,Disorders of lipid metabolism,1
+41976,155297,17,2859,Anemia NOS,"Anemia, unspecified",209797,Deficiency and other anemia,0
+41976,155297,18,53081,Esophageal reflux,Esophageal reflux,209797,Esophageal disorders,0
+41976,155297,19,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",209797,Mood disorders,0
+41976,155297,20,V440,Tracheostomy status,Tracheostomy status,209797,Other upper respiratory disease,1
+41976,155297,21,43819,Late ef-spch/lang df NEC,"Late effects of cerebrovascular disease, other speech and language deficits",209797,Late effects of cerebrovascular disease,0
+41976,125013,1,03849,Gram-neg septicemia NEC,Other septicemia due to gram-negative organisms,213315,Septicemia (except in labor),1
+41976,125013,2,78552,Septic shock,Septic shock,213315,Shock,1
+41976,125013,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",213315,Acute and unspecified renal failure,1
+41976,125013,4,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",213315,Urinary tract infections,0
+41976,125013,5,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,213315,Fluid and electrolyte disorders,1
+41976,125013,6,99592,Severe sepsis,Severe sepsis,213315,Septicemia (except in labor),1
+41976,125013,7,78820,Retention urine NOS,"Retention of urine, unspecified",213315,Genitourinary symptoms and ill-defined conditions,0
+41976,125013,8,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",213315,Chronic ulcer of skin,0
+41976,125013,9,70720,"Pressure ulcer,stage NOS","Pressure ulcer, unspecified stage",213315,Chronic ulcer of skin,0
+41976,125013,10,4019,Hypertension NOS,Unspecified essential hypertension,213315,Essential hypertension,1
+41976,125013,11,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,213315,Thyroid disorders,0
+41976,125013,12,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",213315,Diabetes mellitus with complications,1
+41976,125013,13,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,213315,Other nervous system disorders,0
+41976,125013,14,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,213315,Disorders of lipid metabolism,1
+41976,125013,15,2859,Anemia NOS,"Anemia, unspecified",213315,Deficiency and other anemia,0
+41976,125013,16,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",213315,Mood disorders,0
+41976,125013,17,42731,Atrial fibrillation,Atrial fibrillation,213315,Cardiac dysrhythmias,1
+41976,125013,18,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,213315,Other aftercare,0
+41976,125013,19,V1254,Hx TIA/stroke w/o resid,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",213315,Other circulatory disease,0
+41976,125013,20,V440,Tracheostomy status,Tracheostomy status,213315,Other upper respiratory disease,1
+41976,125013,21,53081,Esophageal reflux,Esophageal reflux,213315,Esophageal disorders,0
+41976,149469,1,0389,Septicemia NOS,Unspecified septicemia,216493,Septicemia (except in labor),1
+41976,149469,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,216493,Aspiration pneumonitis; food/vomitus,0
+41976,149469,3,70723,"Pressure ulcer,stage III","Pressure ulcer, stage III",216493,Chronic ulcer of skin,0
+41976,149469,4,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",216493,Urinary tract infections,0
+41976,149469,5,3441,Paraplegia NOS,Paraplegia,216493,Paralysis,0
+41976,149469,6,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,216493,Fluid and electrolyte disorders,1
+41976,149469,7,99591,Sepsis,Sepsis,216493,Septicemia (except in labor),1
+41976,149469,8,43853,Lt ef oth parals-bilat,"Late effects of cerebrovascular disease, other paralytic syndrome, bilateral",216493,Late effects of cerebrovascular disease,0
+41976,149469,9,7810,Abn involun movement NEC,Abnormal involuntary movements,216493,Other nervous system disorders,0
+41976,149469,10,V440,Tracheostomy status,Tracheostomy status,216493,Other upper respiratory disease,1
+41976,149469,11,V444,Enterostomy status NEC,Status of other artificial opening of gastrointestinal tract,216493,Other gastrointestinal disorders,0
+41976,149469,12,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",216493,Chronic ulcer of skin,0
+41976,149469,13,4019,Hypertension NOS,Unspecified essential hypertension,216493,Essential hypertension,1
+41976,149469,14,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,216493,Thyroid disorders,0
+41976,149469,15,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",216493,Diabetes mellitus without complication,1
+41976,149469,16,V5867,Long-term use of insulin,Long-term (current) use of insulin,216493,Other aftercare,0
+41976,149469,17,3569,Idio periph neurpthy NOS,Unspecified hereditary and idiopathic peripheral neuropathy,216493,Other nervous system disorders,0
+41976,149469,18,V442,Ileostomy status,Ileostomy status,216493,Other gastrointestinal disorders,0
+41976,149469,19,42731,Atrial fibrillation,Atrial fibrillation,216493,Cardiac dysrhythmias,1
+41976,149469,20,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,216493,Other aftercare,0
+41976,149469,21,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",216493,Peripheral and visceral atherosclerosis,0
+41976,149469,22,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,216493,Disorders of lipid metabolism,1
+41976,149469,23,V1582,History of tobacco use,Personal history of tobacco use,216493,Screening and history of mental health and substance abuse codes,0
+41976,149469,24,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",216493,Mood disorders,0
+41976,152032,1,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",234541,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+41976,152032,2,70723,"Pressure ulcer,stage III","Pressure ulcer, stage III",234541,Chronic ulcer of skin,0
+41976,152032,3,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",234541,Urinary tract infections,0
+41976,152032,4,1120,Thrush,Candidiasis of mouth,234541,Mycoses,0
+41976,152032,5,0417,Pseudomonas infect NOS,Pseudomonas infection in conditions classified elsewhere and of unspecified site,234541,Bacterial infection; unspecified site,0
+41976,152032,6,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",234541,Chronic ulcer of skin,0
+41976,152032,7,42731,Atrial fibrillation,Atrial fibrillation,234541,Cardiac dysrhythmias,1
+41976,152032,8,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,234541,Thyroid disorders,0
+41976,152032,9,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",234541,Diabetes mellitus with complications,1
+41976,152032,10,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,234541,Other nervous system disorders,0
+41976,152032,11,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,234541,Disorders of lipid metabolism,1
+41976,152032,12,2859,Anemia NOS,"Anemia, unspecified",234541,Deficiency and other anemia,0
+41976,152032,13,V440,Tracheostomy status,Tracheostomy status,234541,Other upper respiratory disease,1
+41976,152032,14,V442,Ileostomy status,Ileostomy status,234541,Other gastrointestinal disorders,0
+41976,179418,1,0389,Septicemia NOS,Unspecified septicemia,242680,Septicemia (except in labor),1
+41976,179418,2,78552,Septic shock,Septic shock,242680,Shock,1
+41976,179418,3,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",242680,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+41976,179418,4,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",242680,Acute and unspecified renal failure,1
+41976,179418,5,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",242680,Urinary tract infections,0
+41976,179418,6,2763,Alkalosis,Alkalosis,242680,Fluid and electrolyte disorders,1
+41976,179418,7,99592,Severe sepsis,Severe sepsis,242680,Septicemia (except in labor),1
+41976,179418,8,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",242680,Diabetes mellitus with complications,1
+41976,179418,9,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,242680,Other nervous system disorders,0
+41976,179418,10,V5867,Long-term use of insulin,Long-term (current) use of insulin,242680,Other aftercare,0
+41976,179418,11,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",242680,Chronic ulcer of skin,0
+41976,179418,12,70720,"Pressure ulcer,stage NOS","Pressure ulcer, unspecified stage",242680,Chronic ulcer of skin,0
+41976,179418,13,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,242680,Thyroid disorders,0
+41976,179418,14,4019,Hypertension NOS,Unspecified essential hypertension,242680,Essential hypertension,1
+41976,179418,15,42731,Atrial fibrillation,Atrial fibrillation,242680,Cardiac dysrhythmias,1
+41976,179418,16,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,242680,Other aftercare,0
+41976,179418,17,V440,Tracheostomy status,Tracheostomy status,242680,Other upper respiratory disease,1
+41976,179418,18,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,242680,Phlebitis; thrombophlebitis and thromboembolism,0
+41976,179418,19,43889,Late effect CV dis NEC,Other late effects of cerebrovascular disease,242680,Late effects of cerebrovascular disease,0
+41976,179418,20,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,242680,Disorders of lipid metabolism,1
+41976,179418,21,2859,Anemia NOS,"Anemia, unspecified",242680,Deficiency and other anemia,0
+41976,179418,22,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",242680,Mood disorders,0
+41976,172082,1,51881,Acute respiratry failure,Acute respiratory failure,253931,Respiratory failure; insufficiency; arrest (adult),1
+41976,172082,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,253931,Aspiration pneumonitis; food/vomitus,0
+41976,172082,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",253931,Acute and unspecified renal failure,1
+41976,172082,4,5780,Hematemesis,Hematemesis,253931,Gastrointestinal hemorrhage,1
+41976,172082,5,2761,Hyposmolality,Hyposmolality and/or hyponatremia,253931,Fluid and electrolyte disorders,1
+41976,172082,6,53019,Other esophagitis,Other esophagitis,253931,Esophageal disorders,0
+41976,172082,7,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic),253931,Deficiency and other anemia,0
+41976,172082,8,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",253931,Diabetes mellitus with complications,1
+41976,172082,9,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,253931,Other nervous system disorders,0
+41976,172082,10,4019,Hypertension NOS,Unspecified essential hypertension,253931,Essential hypertension,1
+41976,172082,11,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,253931,Thyroid disorders,0
+41976,172082,12,42731,Atrial fibrillation,Atrial fibrillation,253931,Cardiac dysrhythmias,1
+41976,172082,13,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,253931,Disorders of lipid metabolism,1
+41976,174863,1,99664,React-indwell urin cath,Infection and inflammatory reaction due to indwelling urinary catheter,263095,Complication of device; implant or graft,0
+41976,174863,2,03840,Gram-neg septicemia NOS,"Septicemia due to gram-negative organism, unspecified",263095,Septicemia (except in labor),1
+41976,174863,3,99591,Sepsis,Sepsis,263095,Septicemia (except in labor),1
+41976,174863,4,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,263095,Fluid and electrolyte disorders,1
+41976,174863,5,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",263095,Urinary tract infections,0
+41976,174863,6,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",263095,Chronic ulcer of skin,0
+41976,174863,7,70720,"Pressure ulcer,stage NOS","Pressure ulcer, unspecified stage",263095,Chronic ulcer of skin,0
+41976,174863,8,42731,Atrial fibrillation,Atrial fibrillation,263095,Cardiac dysrhythmias,1
+41976,174863,9,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,263095,Other aftercare,0
+41976,174863,10,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",263095,Diabetes mellitus with complications,1
+41976,174863,11,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,263095,Other nervous system disorders,0
+41976,174863,12,2859,Anemia NOS,"Anemia, unspecified",263095,Deficiency and other anemia,0
+41976,174863,13,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,263095,Thyroid disorders,0
+41976,174863,14,4019,Hypertension NOS,Unspecified essential hypertension,263095,Essential hypertension,1
+41976,174863,15,43819,Late ef-spch/lang df NEC,"Late effects of cerebrovascular disease, other speech and language deficits",263095,Late effects of cerebrovascular disease,0
+41976,174863,16,V440,Tracheostomy status,Tracheostomy status,263095,Other upper respiratory disease,1
+41976,130681,1,0389,Septicemia NOS,Unspecified septicemia,265505,Septicemia (except in labor),1
+41976,130681,2,78552,Septic shock,Septic shock,265505,Shock,1
+41976,130681,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",265505,Acute and unspecified renal failure,1
+41976,130681,4,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,265505,Fluid and electrolyte disorders,1
+41976,130681,5,99592,Severe sepsis,Severe sepsis,265505,Septicemia (except in labor),1
+41976,130681,6,42731,Atrial fibrillation,Atrial fibrillation,265505,Cardiac dysrhythmias,1
+41976,130681,7,59970,Hematuria NOS,"Hematuria, unspecified",265505,Genitourinary symptoms and ill-defined conditions,0
+41976,130681,8,5989,Urethral stricture NOS,"Urethral stricture, unspecified",265505,Other diseases of bladder and urethra,0
+41976,153826,1,0389,Septicemia NOS,Unspecified septicemia,267267,Septicemia (except in labor),1
+41976,153826,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,267267,Aspiration pneumonitis; food/vomitus,0
+41976,153826,3,48283,Pneumo oth grm-neg bact,Pneumonia due to other gram-negative bacteria,267267,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+41976,153826,4,34400,"Quadriplegia, unspecifd","Quadriplegia, unspecified",267267,Paralysis,0
+41976,153826,5,70724,"Pressure ulcer, stage IV","Pressure ulcer, stage IV",267267,Chronic ulcer of skin,0
+41976,153826,6,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",267267,Acute and unspecified renal failure,1
+41976,153826,7,2930,Delirium d/t other cond,Delirium due to conditions classified elsewhere,267267,"Delirium, dementia, and amnestic and other cognitive disorders",0
+41976,153826,8,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,267267,Fluid and electrolyte disorders,1
+41976,153826,9,2767,Hyperpotassemia,Hyperpotassemia,267267,Fluid and electrolyte disorders,1
+41976,153826,10,42731,Atrial fibrillation,Atrial fibrillation,267267,Cardiac dysrhythmias,1
+41976,153826,11,2752,Dis magnesium metabolism,Disorders of magnesium metabolism,267267,Other nutritional; endocrine; and metabolic disorders,0
+41976,153826,12,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",267267,Chronic ulcer of skin,0
+41976,153826,13,70705,"Pressure ulcer, buttock","Pressure ulcer, buttock",267267,Chronic ulcer of skin,0
+41976,153826,14,99592,Severe sepsis,Severe sepsis,267267,Septicemia (except in labor),1
+41976,153826,15,V440,Tracheostomy status,Tracheostomy status,267267,Other upper respiratory disease,1
+41976,153826,16,53649,Gastrostomy comp NEC,Other gastrostomy complications,267267,Complications of surgical procedures or medical care,1
+41976,153826,17,43853,Lt ef oth parals-bilat,"Late effects of cerebrovascular disease, other paralytic syndrome, bilateral",267267,Late effects of cerebrovascular disease,0
+41976,153826,18,59960,Urinary obstruction NOS,"Urinary obstruction, unspecified",267267,Genitourinary symptoms and ill-defined conditions,0
+41976,153826,19,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",267267,Diabetes mellitus with complications,1
+41976,153826,20,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,267267,Other nervous system disorders,0
+41976,153826,21,28860,Leukocytosis NOS,"Leukocytosis, unspecified",267267,Diseases of white blood cells,0
+41976,153826,22,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",267267,Peripheral and visceral atherosclerosis,0
+41976,153826,23,2689,Vitamin D deficiency NOS,Unspecified vitamin D deficiency,267267,Nutritional deficiencies,0
+41976,153826,24,4019,Hypertension NOS,Unspecified essential hypertension,267267,Essential hypertension,1
+41976,153826,25,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",267267,Mood disorders,0
+41976,153826,26,43811,Late eff CV dis-aphasia,"Late effects of cerebrovascular disease, aphasia",267267,Late effects of cerebrovascular disease,0
+41976,153826,27,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,267267,Disorders of lipid metabolism,1
+41976,153826,28,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,267267,Thyroid disorders,0
+41976,153826,29,33829,Chronic pain NEC,Other chronic pain,267267,Other nervous system disorders,0
+41976,153826,30,V4986,Do not resusctate status,Do not resuscitate status,267267,Residual codes; unclassified,0
+41976,153826,31,V442,Ileostomy status,Ileostomy status,267267,Other gastrointestinal disorders,0
+41976,153826,32,V1302,Personal history UTI,"Personal history, urinary (tract) infection",267267,Genitourinary symptoms and ill-defined conditions,0
+41976,153826,33,V1204,Hx Methicln resist Staph,Personal history of Methicillin resistant Staphylococcus aureus,267267,Bacterial infection; unspecified site,0
+41976,153826,34,V4572,Acquire absnce intestine,Acquired absence of intestine (large) (small),267267,Residual codes; unclassified,0
+41976,153826,35,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,267267,Other aftercare,0
+41976,153826,36,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,267267,Phlebitis; thrombophlebitis and thromboembolism,0
+41976,153826,37,V1582,History of tobacco use,Personal history of tobacco use,267267,Screening and history of mental health and substance abuse codes,0
+41976,151798,1,03849,Gram-neg septicemia NEC,Other septicemia due to gram-negative organisms,280943,Septicemia (except in labor),1
+41976,151798,2,78552,Septic shock,Septic shock,280943,Shock,1
+41976,151798,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",280943,Acute and unspecified renal failure,1
+41976,151798,4,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",280943,Urinary tract infections,0
+41976,151798,5,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,280943,Fluid and electrolyte disorders,1
+41976,151798,6,99592,Severe sepsis,Severe sepsis,280943,Septicemia (except in labor),1
+41976,151798,7,25062,DMII neuro uncntrld,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled",280943,Diabetes mellitus with complications,1
+41976,151798,8,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,280943,Other nervous system disorders,0
+41976,151798,9,4019,Hypertension NOS,Unspecified essential hypertension,280943,Essential hypertension,1
+41976,151798,10,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,280943,Thyroid disorders,0
+41976,151798,11,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",280943,Chronic ulcer of skin,0
+41976,151798,12,70722,"Pressure ulcer, stage II","Pressure ulcer, stage II",280943,Chronic ulcer of skin,0
+41976,151798,13,42731,Atrial fibrillation,Atrial fibrillation,280943,Cardiac dysrhythmias,1
+41976,151798,14,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",280943,Mood disorders,0
+41976,151798,15,43810,Late ef-spch/lng def NOS,"Late effects of cerebrovascular disease, speech and language deficit, unspecified",280943,Late effects of cerebrovascular disease,0
+41976,151798,16,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,280943,Other aftercare,0
+41976,151798,17,V440,Tracheostomy status,Tracheostomy status,280943,Other upper respiratory disease,1
+41976,125449,1,0389,Septicemia NOS,Unspecified septicemia,285272,Septicemia (except in labor),1
+41976,125449,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,285272,Aspiration pneumonitis; food/vomitus,0
+41976,125449,3,51881,Acute respiratry failure,Acute respiratory failure,285272,Respiratory failure; insufficiency; arrest (adult),1
+41976,125449,4,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",285272,Acute and unspecified renal failure,1
+41976,125449,5,99592,Severe sepsis,Severe sepsis,285272,Septicemia (except in labor),1
+41976,125449,6,4019,Hypertension NOS,Unspecified essential hypertension,285272,Essential hypertension,1
+41976,125449,7,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",285272,Diabetes mellitus without complication,1
+41976,125449,8,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,285272,Thyroid disorders,0
+41976,125449,9,2859,Anemia NOS,"Anemia, unspecified",285272,Deficiency and other anemia,0
+41976,125449,10,53081,Esophageal reflux,Esophageal reflux,285272,Esophageal disorders,0
+41976,125449,11,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",285272,Chronic ulcer of skin,0
+41976,125449,12,70721,"Pressure ulcer, stage I","Pressure ulcer, stage I",285272,Chronic ulcer of skin,0
+41976,180546,1,0389,Septicemia NOS,Unspecified septicemia,285353,Septicemia (except in labor),1
+41976,180546,2,48283,Pneumo oth grm-neg bact,Pneumonia due to other gram-negative bacteria,285353,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+41976,180546,3,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,285353,Aspiration pneumonitis; food/vomitus,0
+41976,180546,4,99664,React-indwell urin cath,Infection and inflammatory reaction due to indwelling urinary catheter,285353,Complication of device; implant or graft,0
+41976,180546,5,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",285353,Urinary tract infections,0
+41976,180546,6,53649,Gastrostomy comp NEC,Other gastrostomy complications,285353,Complications of surgical procedures or medical care,1
+41976,180546,7,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",285353,Chronic ulcer of skin,0
+41976,180546,8,70722,"Pressure ulcer, stage II","Pressure ulcer, stage II",285353,Chronic ulcer of skin,0
+41976,180546,9,0416,Proteus infection NOS,Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site,285353,Bacterial infection; unspecified site,0
+41976,180546,10,E8796,Abn react-urinary cath,"Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",285353,Adverse effects of medical care,0
+41976,180546,11,42731,Atrial fibrillation,Atrial fibrillation,285353,Cardiac dysrhythmias,1
+41976,180546,12,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,285353,Other aftercare,0
+41976,180546,13,2859,Anemia NOS,"Anemia, unspecified",285353,Deficiency and other anemia,0
+41976,180546,14,99591,Sepsis,Sepsis,285353,Septicemia (except in labor),1
+41976,180546,15,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",285353,Diabetes mellitus with complications,1
+41976,180546,16,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,285353,Other nervous system disorders,0
+41976,180546,17,4019,Hypertension NOS,Unspecified essential hypertension,285353,Essential hypertension,1
+41976,180546,18,V440,Tracheostomy status,Tracheostomy status,285353,Other upper respiratory disease,1
+41976,180546,19,V1254,Hx TIA/stroke w/o resid,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",285353,Other circulatory disease,0
+41976,145024,1,53642,Gastrostomy comp - mech,Mechanical complication of gastrostomy,291067,Complications of surgical procedures or medical care,1
+41976,145024,2,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",291067,Urinary tract infections,0
+41976,145024,3,3441,Paraplegia NOS,Paraplegia,291067,Paralysis,0
+41976,145024,4,51909,Tracheostomy comp NEC,Other tracheostomy complications,291067,Complications of surgical procedures or medical care,1
+41976,145024,5,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,291067,Other nervous system disorders,0
+41976,145024,6,E8798,Abn react-procedure NEC,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",291067,Adverse effects of medical care,0
+41976,145024,7,43853,Lt ef oth parals-bilat,"Late effects of cerebrovascular disease, other paralytic syndrome, bilateral",291067,Late effects of cerebrovascular disease,0
+41976,145024,8,43810,Late ef-spch/lng def NOS,"Late effects of cerebrovascular disease, speech and language deficit, unspecified",291067,Late effects of cerebrovascular disease,0
+41976,145024,9,42731,Atrial fibrillation,Atrial fibrillation,291067,Cardiac dysrhythmias,1
+41976,145024,10,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,291067,Other aftercare,0
+41976,145024,11,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",291067,Diabetes mellitus with complications,1
+41976,145024,12,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",291067,Peripheral and visceral atherosclerosis,0
+41976,145024,13,4019,Hypertension NOS,Unspecified essential hypertension,291067,Essential hypertension,1
+41976,145024,14,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,291067,Thyroid disorders,0
+41976,145024,15,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",291067,Mood disorders,0
+41976,145024,16,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,291067,Disorders of lipid metabolism,1
+41976,145024,17,V5867,Long-term use of insulin,Long-term (current) use of insulin,291067,Other aftercare,0
+41976,145024,18,V4984,Bed confinement status,Bed confinement status,291067,Residual codes; unclassified,0

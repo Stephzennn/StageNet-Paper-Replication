@@ -1,0 +1,22 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10029,132349,1,0380,Streptococcal septicemia,Streptococcal septicemia,226055,Septicemia (except in labor),1
+10029,132349,2,99673,Comp-ren dialys dev/grft,"Other complications due to renal dialysis device, implant, and graft",226055,Complication of device; implant or graft,0
+10029,132349,3,5761,Cholangitis,Cholangitis,226055,Biliary tract disease,0
+10029,132349,4,57451,Choledochlith NOS w obst,"Calculus of bile duct without mention of cholecystitis, with obstruction",226055,Biliary tract disease,0
+10029,132349,5,42731,Atrial fibrillation,Atrial fibrillation,226055,Cardiac dysrhythmias,1
+10029,132349,6,5856,End stage renal disease,End stage renal disease,226055,Chronic kidney disease,1
+10029,132349,8,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",226055,Urinary tract infections,0
+10029,132349,9,78552,Septic shock,Septic shock,226055,Shock,1
+10029,132349,10,51882,Other pulmonary insuff,"Other pulmonary insufficiency, not elsewhere classified",226055,Respiratory failure; insufficiency; arrest (adult),1
+10029,132349,11,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",226055,Coagulation and hemorrhagic disorders,0
+10029,132349,12,5119,Pleural effusion NOS,Unspecified pleural effusion,226055,Pleurisy; pneumothorax; pulmonary collapse,1
+10029,132349,13,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",226055,Hypertension with complications and secondary hypertension,1
+10029,132349,14,4280,CHF NOS,"Congestive heart failure, unspecified",226055,Congestive heart failure; nonhypertensive,1
+10029,132349,15,99659,Malfunc oth device/graft,"Mechanical complication due to other implant and internal device, not elsewhere classified",226055,Complication of device; implant or graft,0
+10029,132349,16,7211,Cerv spondyl w myelopath,Cervical spondylosis with myelopathy,226055,Spondylosis; intervertebral disc disorders; other back problems,0
+10029,132349,17,V1588,Personal history of fall,History of fall,226055,Other injuries and conditions due to external causes,0
+10029,132349,18,2380,Unc behav neo bone,Neoplasm of uncertain behavior of bone and articular cartilage,226055,Neoplasms of unspecified nature or uncertain behavior,0
+10029,132349,19,2930,Delirium d/t other cond,Delirium due to conditions classified elsewhere,226055,"Delirium, dementia, and amnestic and other cognitive disorders",0
+10029,132349,21,99592,Severe sepsis,Severe sepsis,226055,Septicemia (except in labor),1
+10029,132349,22,V4502,Status autm crd dfbrltr,Automatic implantable cardiac defibrillator in situ,226055,Conduction disorders,1
+10029,132349,23,V1046,Hx-prostatic malignancy,Personal history of malignant neoplasm of prostate,226055,Cancer of prostate,0

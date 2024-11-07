@@ -1,0 +1,18 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+42075,151323,1,41041,"AMI inferior wall, init","Acute myocardial infarction of other inferior wall, initial episode of care",298685,Acute myocardial infarction,1
+42075,151323,2,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",298685,Acute and unspecified renal failure,1
+42075,151323,3,1623,Mal neo upper lobe lung,"Malignant neoplasm of upper lobe, bronchus or lung",298685,Cancer of bronchus; lung,0
+42075,151323,4,1977,Second malig neo liver,"Malignant neoplasm of liver, secondary",298685,Secondary malignancies,0
+42075,151323,5,1985,Secondary malig neo bone,Secondary malignant neoplasm of bone and bone marrow,298685,Secondary malignancies,0
+42075,151323,6,51881,Acute respiratry failure,Acute respiratory failure,298685,Respiratory failure; insufficiency; arrest (adult),1
+42075,151323,7,2762,Acidosis,Acidosis,298685,Fluid and electrolyte disorders,1
+42075,151323,8,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,298685,Aspiration pneumonitis; food/vomitus,0
+42075,151323,9,5789,Gastrointest hemorr NOS,"Hemorrhage of gastrointestinal tract, unspecified",298685,Gastrointestinal hemorrhage,1
+42075,151323,10,4275,Cardiac arrest,Cardiac arrest,298685,Cardiac arrest and ventricular fibrillation,0
+42075,151323,11,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,298685,Coronary atherosclerosis and other heart disease,1
+42075,151323,12,4588,Hypotension NEC,Other specified hypotension,298685,Other circulatory disease,0
+42075,151323,13,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",298685,Diabetes mellitus without complication,1
+42075,151323,14,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,298685,Disorders of lipid metabolism,1
+42075,151323,15,4019,Hypertension NOS,Unspecified essential hypertension,298685,Essential hypertension,1
+42075,151323,16,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",298685,Chronic obstructive pulmonary disease and bronchiectasis,1
+42075,151323,17,28984,Heparin-indu thrombocyto,Heparin-induced thrombocytopenia (HIT),298685,Coagulation and hemorrhagic disorders,0

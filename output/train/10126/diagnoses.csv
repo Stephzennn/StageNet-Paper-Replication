@@ -1,0 +1,14 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10126,160445,1,570,Acute necrosis of liver,Acute and subacute necrosis of liver,249805,Other liver diseases,1
+10126,160445,2,99682,Compl liver transplant,Complications of transplanted liver,249805,Complication of device; implant or graft,0
+10126,160445,4,5712,Alcohol cirrhosis liver,Alcoholic cirrhosis of liver,249805,Alcohol-related disorders,0
+10126,160445,5,2867,Acq coagul factor defic,Acquired coagulation factor deficiency,249805,Coagulation and hemorrhagic disorders,0
+10126,160445,6,07032,Hpt B chrn wo cm wo dlta,Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta,249805,Hepatitis,0
+10126,160445,7,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis,249805,Acute and unspecified renal failure,1
+10126,160445,8,4168,Chr pulmon heart dis NEC,Other chronic pulmonary heart diseases,249805,Pulmonary heart disease,0
+10126,160445,9,28959,Spleen disease NEC,Other diseases of spleen,249805,Other hematologic conditions,0
+10126,160445,10,5750,Acute cholecystitis,Acute cholecystitis,249805,Biliary tract disease,0
+10126,160445,11,5121,Iatrogenic pneumothorax,Iatrogenic pneumothorax,249805,Complications of surgical procedures or medical care,1
+10126,160445,12,56881,Hemoperitoneum,Hemoperitoneum (nontraumatic),249805,Other gastrointestinal disorders,0
+10126,160445,13,4280,CHF NOS,"Congestive heart failure, unspecified",249805,Congestive heart failure; nonhypertensive,1
+10126,160445,14,5762,Obstruction of bile duct,Obstruction of bile duct,249805,Biliary tract disease,0

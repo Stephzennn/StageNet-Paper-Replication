@@ -1,0 +1,15 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+40204,175237,1,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",285369,Urinary tract infections,0
+40204,175237,2,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",285369,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+40204,175237,3,42822,Chr systolic hrt failure,Chronic systolic heart failure,285369,Congestive heart failure; nonhypertensive,1
+40204,175237,4,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",285369,Hypertension with complications and secondary hypertension,1
+40204,175237,5,5856,End stage renal disease,End stage renal disease,285369,Chronic kidney disease,1
+40204,175237,6,58881,Sec hyperparathyrd-renal,Secondary hyperparathyroidism (of renal origin),285369,Other diseases of kidney and ureters,0
+40204,175237,8,78009,Other alter consciousnes,Other alteration of consciousness,285369,Coma; stupor; and brain damage,0
+40204,175237,9,4280,CHF NOS,"Congestive heart failure, unspecified",285369,Congestive heart failure; nonhypertensive,1
+40204,175237,10,V4511,Renal dialysis status,Renal dialysis status,285369,Chronic kidney disease,1
+40204,175237,11,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",285369,Diabetes mellitus without complication,1
+40204,175237,12,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,285369,Coronary atherosclerosis and other heart disease,1
+40204,175237,13,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",285369,Chronic obstructive pulmonary disease and bronchiectasis,1
+40204,175237,14,71946,Joint pain-l/leg,"Pain in joint, lower leg",285369,Other non-traumatic joint disorders,0
+40204,175237,15,V0254,Meth resis Staph carrier,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus,285369,Immunizations and screening for infectious disease,0

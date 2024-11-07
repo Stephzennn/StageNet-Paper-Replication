@@ -1,0 +1,56 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10088,168233,1,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",249695,Acute myocardial infarction,1
+10088,168233,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,249695,Aspiration pneumonitis; food/vomitus,0
+10088,168233,3,51882,Other pulmonary insuff,"Other pulmonary insufficiency, not elsewhere classified",249695,Respiratory failure; insufficiency; arrest (adult),1
+10088,168233,4,4280,CHF NOS,"Congestive heart failure, unspecified",249695,Congestive heart failure; nonhypertensive,1
+10088,168233,5,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",249695,Acute and unspecified renal failure,1
+10088,168233,6,2762,Acidosis,Acidosis,249695,Fluid and electrolyte disorders,1
+10088,168233,7,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,249695,Fluid and electrolyte disorders,1
+10088,168233,8,20280,Oth lymp unsp xtrndl org,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites",249695,Non-Hodgkin`s lymphoma,0
+10088,168233,9,490,Bronchitis NOS,"Bronchitis, not specified as acute or chronic",249695,Chronic obstructive pulmonary disease and bronchiectasis,1
+10088,168233,10,04111,Mth sus Stph aur els/NOS,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site,249695,Bacterial infection; unspecified site,0
+10088,168233,11,V090,Inf mcrg rstn pncllins,Infection with microorganisms resistant to penicillins,249695,Bacterial infection; unspecified site,0
+10088,168233,12,42789,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias,249695,Cardiac dysrhythmias,1
+10088,168233,13,4019,Hypertension NOS,Unspecified essential hypertension,249695,Essential hypertension,1
+10088,168233,14,3320,Paralysis agitans,Paralysis agitans,249695,Parkinson`s disease,0
+10088,168233,15,29040,"Vascular dementia,uncomp","Vascular dementia, uncomplicated",249695,"Delirium, dementia, and amnestic and other cognitive disorders",0
+10088,168233,16,4370,Cerebral atherosclerosis,Cerebral atherosclerosis,249695,Other and ill-defined cerebrovascular disease,0
+10088,168233,17,44031,Ath ext autologs bps gft,Atherosclerosis of autologous vein bypass graft of the extremities,249695,Complication of device; implant or graft,0
+10088,168233,18,56210,Dvrtclo colon w/o hmrhg,Diverticulosis of colon (without mention of hemorrhage),249695,Diverticulosis and diverticulitis,0
+10088,168233,19,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,249695,Disorders of lipid metabolism,1
+10088,168233,20,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",249695,Mood disorders,0
+10088,168233,21,V4581,Aortocoronary bypass,Aortocoronary bypass status,249695,Coronary atherosclerosis and other heart disease,1
+10088,168233,22,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,249695,Coronary atherosclerosis and other heart disease,1
+10088,168233,23,V1201,Prsnl hst tuberculosis,Personal history of tuberculosis,249695,Tuberculosis,0
+10088,169938,1,0389,Septicemia NOS,Unspecified septicemia,256345,Septicemia (except in labor),1
+10088,169938,2,99592,Severe sepsis,Severe sepsis,256345,Septicemia (except in labor),1
+10088,169938,3,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",256345,Urinary tract infections,0
+10088,169938,4,78552,Septic shock,Septic shock,256345,Shock,1
+10088,169938,5,51881,Acute respiratry failure,Acute respiratory failure,256345,Respiratory failure; insufficiency; arrest (adult),1
+10088,169938,6,4280,CHF NOS,"Congestive heart failure, unspecified",256345,Congestive heart failure; nonhypertensive,1
+10088,169938,8,5781,Blood in stool,Blood in stool,256345,Gastrointestinal hemorrhage,1
+10088,169938,10,V4581,Aortocoronary bypass,Aortocoronary bypass status,256345,Coronary atherosclerosis and other heart disease,1
+10088,169938,11,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,256345,Coronary atherosclerosis and other heart disease,1
+10088,169938,12,41400,Cor ath unsp vsl ntv/gft,"Coronary atherosclerosis of unspecified type of vessel, native or graft",256345,Coronary atherosclerosis and other heart disease,1
+10088,169938,13,4019,Hypertension NOS,Unspecified essential hypertension,256345,Essential hypertension,1
+10088,169938,14,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",256345,Mood disorders,0
+10088,169938,15,V1201,Prsnl hst tuberculosis,Personal history of tuberculosis,256345,Tuberculosis,0
+10088,169938,16,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",256345,Peripheral and visceral atherosclerosis,0
+10088,169938,17,2859,Anemia NOS,"Anemia, unspecified",256345,Deficiency and other anemia,0
+10088,149044,1,0389,Septicemia NOS,Unspecified septicemia,277403,Septicemia (except in labor),1
+10088,149044,2,99591,Sepsis,Sepsis,277403,Septicemia (except in labor),1
+10088,149044,3,78552,Septic shock,Septic shock,277403,Shock,1
+10088,149044,4,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",277403,Urinary tract infections,0
+10088,149044,5,4280,CHF NOS,"Congestive heart failure, unspecified",277403,Congestive heart failure; nonhypertensive,1
+10088,149044,6,V090,Inf mcrg rstn pncllins,Infection with microorganisms resistant to penicillins,277403,Bacterial infection; unspecified site,0
+10088,149044,7,3320,Paralysis agitans,Paralysis agitans,277403,Parkinson`s disease,0
+10088,149044,8,29041,Vasc dementia w delirium,"Vascular dementia, with delirium",277403,"Delirium, dementia, and amnestic and other cognitive disorders",0
+10088,149044,9,4370,Cerebral atherosclerosis,Cerebral atherosclerosis,277403,Other and ill-defined cerebrovascular disease,0
+10088,149044,10,V441,Gastrostomy status,Gastrostomy status,277403,Other gastrointestinal disorders,0
+10088,149044,11,41400,Cor ath unsp vsl ntv/gft,"Coronary atherosclerosis of unspecified type of vessel, native or graft",277403,Coronary atherosclerosis and other heart disease,1
+10088,149044,12,28529,Anemia-other chronic dis,Anemia of other chronic disease,277403,Deficiency and other anemia,0
+10088,149044,13,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,277403,Coronary atherosclerosis and other heart disease,1
+10088,149044,14,V4581,Aortocoronary bypass,Aortocoronary bypass status,277403,Coronary atherosclerosis and other heart disease,1
+10088,149044,15,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",277403,Peripheral and visceral atherosclerosis,0
+10088,149044,16,V1079,Hx-lymphatic malign NEC,Personal history of other lymphatic and hematopoietic neoplasms,277403,Non-Hodgkin`s lymphoma,0
+10088,149044,17,V1201,Prsnl hst tuberculosis,Personal history of tuberculosis,277403,Tuberculosis,0

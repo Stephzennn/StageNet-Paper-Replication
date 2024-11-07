@@ -1,0 +1,13 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10102,164869,1,20510,Ch myl leuk wo achv rmsn,"Chronic myeloid leukemia, without mention of having achieved remission",223870,Leukemias,0
+10102,164869,3,5180,Pulmonary collapse,Pulmonary collapse,223870,Pleurisy; pneumothorax; pulmonary collapse,1
+10102,164869,4,5119,Pleural effusion NOS,Unspecified pleural effusion,223870,Pleurisy; pneumothorax; pulmonary collapse,1
+10102,164869,5,00845,Int inf clstrdium dfcile,Intestinal infection due to Clostridium difficile,223870,Intestinal infection,0
+10102,164869,6,2761,Hyposmolality,Hyposmolality and/or hyponatremia,223870,Fluid and electrolyte disorders,1
+10102,164869,7,2762,Acidosis,Acidosis,223870,Fluid and electrolyte disorders,1
+10102,164869,8,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",223870,Chronic ulcer of skin,0
+10102,164869,9,5789,Gastrointest hemorr NOS,"Hemorrhage of gastrointestinal tract, unspecified",223870,Gastrointestinal hemorrhage,1
+10102,164869,10,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic),223870,Deficiency and other anemia,0
+10102,164869,11,7850,Tachycardia NOS,"Tachycardia, unspecified",223870,Cardiac dysrhythmias,1
+10102,164869,12,79092,Abnrml coagultion prfile,Abnormal coagulation profile,223870,Residual codes; unclassified,0
+10102,164869,13,28959,Spleen disease NEC,Other diseases of spleen,223870,Other hematologic conditions,0

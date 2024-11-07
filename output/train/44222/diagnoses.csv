@@ -1,0 +1,12 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+44222,192189,1,42781,Sinoatrial node dysfunct,Sinoatrial node dysfunction,238186,Cardiac dysrhythmias,1
+44222,192189,2,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",238186,Acute and unspecified renal failure,1
+44222,192189,3,E9429,Adv eff cardiovasc NEC,Other and unspecified agents primarily affecting the cardiovascular system causing adverse effects in therapeutic use,238186,Adverse effects of medical drugs,0
+44222,192189,4,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,238186,Coronary atherosclerosis and other heart disease,1
+44222,192189,5,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",238186,Hypertension with complications and secondary hypertension,1
+44222,192189,6,5853,Chr kidney dis stage III,"Chronic kidney disease, Stage III (moderate)",238186,Chronic kidney disease,1
+44222,192189,7,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",238186,Diabetes mellitus with complications,1
+44222,192189,8,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,238186,Other nervous system disorders,0
+44222,192189,9,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,238186,Disorders of lipid metabolism,1
+44222,192189,10,3320,Paralysis agitans,Paralysis agitans,238186,Parkinson`s disease,0
+44222,192189,11,72400,Spinal stenosis NOS,"Spinal stenosis, unspecified region",238186,Spondylosis; intervertebral disc disorders; other back problems,0

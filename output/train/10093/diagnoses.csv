@@ -1,0 +1,11 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10093,165393,1,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",251573,Acute myocardial infarction,1
+10093,165393,2,5789,Gastrointest hemorr NOS,"Hemorrhage of gastrointestinal tract, unspecified",251573,Gastrointestinal hemorrhage,1
+10093,165393,3,4241,Aortic valve disorder,Aortic valve disorders,251573,Heart valve disorders,0
+10093,165393,4,78559,Shock w/o trauma NEC,Other shock without mention of trauma,251573,Shock,1
+10093,165393,5,27651,Dehydration,Dehydration,251573,Fluid and electrolyte disorders,1
+10093,165393,6,2639,Protein-cal malnutr NOS,Unspecified protein-calorie malnutrition,251573,Nutritional deficiencies,0
+10093,165393,7,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",251573,Acute and unspecified renal failure,1
+10093,165393,8,4019,Hypertension NOS,Unspecified essential hypertension,251573,Essential hypertension,1
+10093,165393,9,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",251573,Peripheral and visceral atherosclerosis,0
+10093,165393,10,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,251573,Coronary atherosclerosis and other heart disease,1

@@ -1,0 +1,20 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10006,142345,1,99591,Sepsis,Sepsis,206504,Septicemia (except in labor),1
+10006,142345,2,99662,React-oth vasc dev/graft,"Infection and inflammatory reaction due to other vascular device, implant, and graft",206504,Complication of device; implant or graft,0
+10006,142345,4,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",206504,Hypertension with complications and secondary hypertension,1
+10006,142345,5,42731,Atrial fibrillation,Atrial fibrillation,206504,Cardiac dysrhythmias,1
+10006,142345,6,4280,CHF NOS,"Congestive heart failure, unspecified",206504,Congestive heart failure; nonhypertensive,1
+10006,142345,7,4241,Aortic valve disorder,Aortic valve disorders,206504,Heart valve disorders,0
+10006,142345,8,4240,Mitral valve disorder,Mitral valve disorders,206504,Heart valve disorders,0
+10006,142345,10,03819,Staphylcocc septicem NEC,Other staphylococcal septicemia,206504,Septicemia (except in labor),1
+10006,142345,11,7850,Tachycardia NOS,"Tachycardia, unspecified",206504,Cardiac dysrhythmias,1
+10006,142345,12,E8791,Abn react-renal dialysis,"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",206504,Adverse effects of medical care,0
+10006,142345,13,V090,Inf mcrg rstn pncllins,Infection with microorganisms resistant to penicillins,206504,Bacterial infection; unspecified site,0
+10006,142345,14,56211,Dvrtcli colon w/o hmrhg,Diverticulitis of colon (without mention of hemorrhage),206504,Diverticulosis and diverticulitis,0
+10006,142345,15,28529,Anemia-other chronic dis,Anemia of other chronic disease,206504,Deficiency and other anemia,0
+10006,142345,16,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",206504,Diabetes mellitus without complication,1
+10006,142345,17,V5867,Long-term use of insulin,Long-term (current) use of insulin,206504,Other aftercare,0
+10006,142345,18,E9342,Adv eff anticoagulants,Anticoagulants causing adverse effects in therapeutic use,206504,Adverse effects of medical drugs,0
+10006,142345,19,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,206504,Coronary atherosclerosis and other heart disease,1
+10006,142345,20,2749,Gout NOS,"Gout, unspecified",206504,Gout and other crystal arthropathies,0
+10006,142345,21,3051,Tobacco use disorder,Tobacco use disorder,206504,Screening and history of mental health and substance abuse codes,0
