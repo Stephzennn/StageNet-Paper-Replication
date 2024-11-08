@@ -1,0 +1,15 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+40687,129273,1,51881,Acute respiratry failure,Acute respiratory failure,279183,Respiratory failure; insufficiency; arrest (adult),1
+40687,129273,2,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",279183,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+40687,129273,3,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,279183,Fluid and electrolyte disorders,1
+40687,129273,4,45340,Ac DVT/embl low ext NOS,Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity,279183,Phlebitis; thrombophlebitis and thromboembolism,0
+40687,129273,6,1985,Secondary malig neo bone,Secondary malignant neoplasm of bone and bone marrow,279183,Secondary malignancies,0
+40687,129273,7,1970,Secondary malig neo lung,Secondary malignant neoplasm of lung,279183,Secondary malignancies,0
+40687,129273,8,1972,Second malig neo pleura,Secondary malignant neoplasm of pleura,279183,Secondary malignancies,0
+40687,129273,9,1976,Sec mal neo peritoneum,Secondary malignant neoplasm of retroperitoneum and peritoneum,279183,Secondary malignancies,0
+40687,129273,10,1961,Mal neo lymph-intrathor,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes,279183,Secondary malignancies,0
+40687,129273,11,1965,Mal neo lymph-inguin/leg,Secondary and unspecified malignant neoplasm of lymph nodes of inguinal region and lower limb,279183,Secondary malignancies,0
+40687,129273,12,E9331,Adv eff antineoplastic,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use,279183,Adverse effects of medical drugs,0
+40687,129273,13,4019,Hypertension NOS,Unspecified essential hypertension,279183,Essential hypertension,1
+40687,129273,14,2720,Pure hypercholesterolem,Pure hypercholesterolemia,279183,Disorders of lipid metabolism,1
+40687,129273,15,V103,Hx of breast malignancy,Personal history of malignant neoplasm of breast,279183,Cancer of breast,0

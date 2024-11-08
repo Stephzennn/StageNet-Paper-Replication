@@ -1,0 +1,4 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10035,110244,1,43310,Ocl crtd art wo infrct,Occlusion and stenosis of carotid artery without mention of cerebral infarction,296804,Occlusion or stenosis of precerebral arteries,0
+10035,110244,2,2749,Gout NOS,"Gout, unspecified",296804,Gout and other crystal arthropathies,0
+10035,110244,4,412,Old myocardial infarct,Old myocardial infarction,296804,Coronary atherosclerosis and other heart disease,1

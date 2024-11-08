@@ -1,0 +1,41 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+42346,180391,1,42821,Ac systolic hrt failure,Acute systolic heart failure,223285,Congestive heart failure; nonhypertensive,1
+42346,180391,2,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",223285,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+42346,180391,3,51881,Acute respiratry failure,Acute respiratory failure,223285,Respiratory failure; insufficiency; arrest (adult),1
+42346,180391,4,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,223285,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+42346,180391,5,2764,Mixed acid-base bal dis,Mixed acid-base balance disorder,223285,Fluid and electrolyte disorders,1
+42346,180391,6,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",223285,Urinary tract infections,0
+42346,180391,7,4280,CHF NOS,"Congestive heart failure, unspecified",223285,Congestive heart failure; nonhypertensive,1
+42346,180391,8,3968,Mitr/aortic mult involv,Multiple involvement of mitral and aortic valves,223285,Heart valve disorders,0
+42346,180391,9,3970,Tricuspid valve disease,Diseases of tricuspid valve,223285,Heart valve disorders,0
+42346,180391,11,42731,Atrial fibrillation,Atrial fibrillation,223285,Cardiac dysrhythmias,1
+42346,180391,12,37230,Conjunctivitis NOS,"Conjunctivitis, unspecified",223285,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+42346,180391,13,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",223285,Diabetes mellitus without complication,1
+42346,180391,14,56400,Constipation NOS,"Constipation, unspecified",223285,Other gastrointestinal disorders,0
+42346,180391,15,4019,Hypertension NOS,Unspecified essential hypertension,223285,Essential hypertension,1
+42346,180391,16,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,223285,Disorders of lipid metabolism,1
+42346,180391,17,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",223285,Peripheral and visceral atherosclerosis,0
+42346,180391,18,3659,Glaucoma NOS,Unspecified glaucoma,223285,Glaucoma,0
+42346,180391,19,53390,Peptic ulcer NOS,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",223285,Gastroduodenal ulcer (except hemorrhage),0
+42346,180391,20,V4501,Status cardiac pacemaker,Cardiac pacemaker in situ,223285,Conduction disorders,1
+42346,180391,21,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,223285,Other aftercare,0
+42346,180391,22,V1083,Hx-skin malignancy NEC,Personal history of other malignant neoplasm of skin,223285,Other non-epithelial cancer of skin,0
+42346,175880,1,5602,Volvulus of intestine,Volvulus,279721,Intestinal obstruction without hernia,0
+42346,175880,2,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",279721,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+42346,175880,3,39891,Rheumatic heart failure,Rheumatic heart failure (congestive),279721,Congestive heart failure; nonhypertensive,1
+42346,175880,4,3963,Mitral/aortic val insuff,Mitral valve insufficiency and aortic valve insufficiency,279721,Heart valve disorders,0
+42346,175880,5,3970,Tricuspid valve disease,Diseases of tricuspid valve,279721,Heart valve disorders,0
+42346,175880,6,42731,Atrial fibrillation,Atrial fibrillation,279721,Cardiac dysrhythmias,1
+42346,175880,7,79902,Hypoxemia,Hypoxemia,279721,Other injuries and conditions due to external causes,0
+42346,175880,8,4589,Hypotension NOS,"Hypotension, unspecified",279721,Other circulatory disease,0
+42346,175880,9,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,279721,Other aftercare,0
+42346,175880,10,4019,Hypertension NOS,Unspecified essential hypertension,279721,Essential hypertension,1
+42346,175880,11,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",279721,Diabetes mellitus without complication,1
+42346,175880,12,V5867,Long-term use of insulin,Long-term (current) use of insulin,279721,Other aftercare,0
+42346,175880,13,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,279721,Disorders of lipid metabolism,1
+42346,175880,14,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",279721,Peripheral and visceral atherosclerosis,0
+42346,175880,15,53390,Peptic ulcer NOS,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",279721,Gastroduodenal ulcer (except hemorrhage),0
+42346,175880,16,V4501,Status cardiac pacemaker,Cardiac pacemaker in situ,279721,Conduction disorders,1
+42346,175880,17,3659,Glaucoma NOS,Unspecified glaucoma,279721,Glaucoma,0
+42346,175880,18,V1083,Hx-skin malignancy NEC,Personal history of other malignant neoplasm of skin,279721,Other non-epithelial cancer of skin,0
+42346,175880,19,V667,Encountr palliative care,Encounter for palliative care,279721,Other aftercare,0

@@ -1,10 +1,20 @@
-from keras.models import Model
-from keras.layers import Input, Dense, LSTM, Masking, Dropout
-from keras.layers.wrappers import Bidirectional, TimeDistributed
+#from keras.models import Model
+
+from keras._tf_keras.keras.models import Model
+#from keras.layers import Input, Dense, LSTM, Masking, Dropout
+from keras._tf_keras.keras.layers import Input, Dense, LSTM, Masking, Dropout
+#from keras.layers.wrappers import Bidirectional, TimeDistributed
+from keras._tf_keras.keras.layers import Bidirectional, TimeDistributed
+import sys
+import os
+sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3benchmark'))
+
+'''
 from mimic3models.keras_utils import LastTimestep
 from mimic3models.keras_utils import ExtendMask
-
-
+'''
+from keras_utils import LastTimestep
+from keras_utils import ExtendMask
 class Network(Model):
 
     def __init__(self, dim, batch_norm, dropout, rec_dropout, task,

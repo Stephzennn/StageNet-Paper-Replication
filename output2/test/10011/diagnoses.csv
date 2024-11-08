@@ -1,0 +1,7 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10011,105331,1,570,Acute necrosis of liver,Acute and subacute necrosis of liver,232110,Other liver diseases,1
+10011,105331,2,07030,Hpt B acte wo cm wo dlta,"Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta",232110,Hepatitis,0
+10011,105331,3,07054,Chrnc hpt C wo hpat coma,Chronic hepatitis C without mention of hepatic coma,232110,Hepatitis,0
+10011,105331,4,30401,Opioid dependence-contin,"Opioid type dependence, continuous",232110,Substance-related disorders,0
+10011,105331,5,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",232110,Coagulation and hemorrhagic disorders,0
+10011,105331,6,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,232110,Fluid and electrolyte disorders,1

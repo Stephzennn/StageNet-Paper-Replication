@@ -1,0 +1,12 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+43927,110958,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,290513,Coronary atherosclerosis and other heart disease,1
+43927,110958,2,4142,Chr tot occlus cor artry,Chronic total occlusion of coronary artery,290513,Coronary atherosclerosis and other heart disease,1
+43927,110958,3,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris,290513,Coronary atherosclerosis and other heart disease,1
+43927,110958,4,4019,Hypertension NOS,Unspecified essential hypertension,290513,Essential hypertension,1
+43927,110958,5,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,290513,Disorders of lipid metabolism,1
+43927,110958,6,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",290513,Diabetes mellitus without complication,1
+43927,110958,7,43310,Ocl crtd art wo infrct,Occlusion and stenosis of carotid artery without mention of cerebral infarction,290513,Occlusion or stenosis of precerebral arteries,0
+43927,110958,8,49390,Asthma NOS,"Asthma, unspecified type, unspecified",290513,Asthma,0
+43927,110958,9,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,290513,Coronary atherosclerosis and other heart disease,1
+43927,110958,10,V1301,Prsnl hst urnr dsrd calc,Personal history of urinary calculi,290513,Calculus of urinary tract,0
+43927,110958,11,V1272,Prsnl hst colonic polyps,Personal history of colonic polyps,290513,Other and unspecified benign neoplasm,0

@@ -1,0 +1,19 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+42292,138503,1,8830,Open wound of finger,"Open wound of finger(s), without mention of complication",277238,Open wounds of extremities,0
+42292,138503,2,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",277238,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+42292,138503,3,29181,Alcohol withdrawal,Alcohol withdrawal,277238,Alcohol-related disorders,0
+42292,138503,4,E8120,Mv collision NOS-driver,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle,277238,Motor vehicle traffic (MVT),0
+42292,138503,5,E8495,Accid on street/highway,Street and highway accidents,277238,Place of occurrence,0
+42292,138503,6,25080,DMII oth nt st uncntrld,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",277238,Diabetes mellitus with complications,1
+42292,138503,7,30301,Ac alcohol intox-contin,"Acute alcoholic intoxication in alcoholism, continuous",277238,Alcohol-related disorders,0
+42292,138503,8,78009,Other alter consciousnes,Other alteration of consciousness,277238,Coma; stupor; and brain damage,0
+42292,138503,9,53081,Esophageal reflux,Esophageal reflux,277238,Esophageal disorders,0
+42292,138503,10,V425,Cornea transplant status,Cornea replaced by transplant,277238,Other eye disorders,0
+42292,138503,11,25070,DMII circ nt st uncntrld,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled",277238,Diabetes mellitus with complications,1
+42292,138503,12,44020,Athscl extrm ntv art NOS,"Atherosclerosis of native arteries of the extremities, unspecified",277238,Peripheral and visceral atherosclerosis,0
+42292,138503,13,3051,Tobacco use disorder,Tobacco use disorder,277238,Screening and history of mental health and substance abuse codes,0
+42292,138503,14,2859,Anemia NOS,"Anemia, unspecified",277238,Deficiency and other anemia,0
+42292,138503,15,99631,Malfunc urethral cath,Mechanical complication due to urethral (indwelling) catheter,277238,Complication of device; implant or graft,0
+42292,138503,16,E8796,Abn react-urinary cath,"Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",277238,Adverse effects of medical care,0
+42292,138503,17,E8497,Accid in resident instit,Accidents occurring in residential institution,277238,Place of occurrence,0
+42292,138503,18,42731,Atrial fibrillation,Atrial fibrillation,277238,Cardiac dysrhythmias,1

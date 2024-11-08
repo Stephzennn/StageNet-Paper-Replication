@@ -1,0 +1,15 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+44083,125157,1,1510,Mal neo stomach cardia,Malignant neoplasm of cardia,265615,Cancer of stomach,0
+44083,125157,3,4019,Hypertension NOS,Unspecified essential hypertension,265615,Essential hypertension,1
+44083,125157,4,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,265615,Disorders of lipid metabolism,1
+44083,131048,1,5119,Pleural effusion NOS,Unspecified pleural effusion,282640,Pleurisy; pneumothorax; pulmonary collapse,1
+44083,131048,2,4239,Pericardial disease NOS,Unspecified disease of pericardium,282640,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+44083,131048,3,4019,Hypertension NOS,Unspecified essential hypertension,282640,Essential hypertension,1
+44083,131048,4,2859,Anemia NOS,"Anemia, unspecified",282640,Deficiency and other anemia,0
+44083,131048,5,V1003,Hx-esophageal malignancy,Personal history of malignant neoplasm of esophagus,282640,Cancer of esophagus,0
+44083,198330,1,4239,Pericardial disease NOS,Unspecified disease of pericardium,286428,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+44083,198330,2,5119,Pleural effusion NOS,Unspecified pleural effusion,286428,Pleurisy; pneumothorax; pulmonary collapse,1
+44083,198330,3,4233,Cardiac tamponade,Cardiac tamponade,286428,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+44083,198330,4,2859,Anemia NOS,"Anemia, unspecified",286428,Deficiency and other anemia,0
+44083,198330,5,V1003,Hx-esophageal malignancy,Personal history of malignant neoplasm of esophagus,286428,Cancer of esophagus,0
+44083,198330,6,4019,Hypertension NOS,Unspecified essential hypertension,286428,Essential hypertension,1

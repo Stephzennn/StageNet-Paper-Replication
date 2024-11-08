@@ -1,0 +1,13 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10019,177759,1,0389,Septicemia NOS,Unspecified septicemia,228977,Septicemia (except in labor),1
+10019,177759,2,51881,Acute respiratry failure,Acute respiratory failure,228977,Respiratory failure; insufficiency; arrest (adult),1
+10019,177759,3,5770,Acute pancreatitis,Acute pancreatitis,228977,Pancreatic disorders (not diabetes),0
+10019,177759,4,30390,Alcoh dep NEC/NOS-unspec,"Other and unspecified alcohol dependence, unspecified",228977,Alcohol-related disorders,0
+10019,177759,5,5781,Blood in stool,Blood in stool,228977,Gastrointestinal hemorrhage,1
+10019,177759,6,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis,228977,Acute and unspecified renal failure,1
+10019,177759,8,5722,Hepatic encephalopathy,Hepatic encephalopathy,228977,Other liver diseases,1
+10019,177759,9,78559,Shock w/o trauma NEC,Other shock without mention of trauma,228977,Shock,1
+10019,177759,10,99592,Severe sepsis,Severe sepsis,228977,Septicemia (except in labor),1
+10019,177759,11,5711,Ac alcoholic hepatitis,Acute alcoholic hepatitis,228977,Alcohol-related disorders,0
+10019,177759,12,4019,Hypertension NOS,Unspecified essential hypertension,228977,Essential hypertension,1
+10019,177759,13,49390,Asthma NOS,"Asthma, unspecified type, unspecified",228977,Asthma,0

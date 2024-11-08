@@ -1,0 +1,15 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+40503,168803,1,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",293429,Acute myocardial infarction,1
+40503,168803,2,42821,Ac systolic hrt failure,Acute systolic heart failure,293429,Congestive heart failure; nonhypertensive,1
+40503,168803,3,2761,Hyposmolality,Hyposmolality and/or hyponatremia,293429,Fluid and electrolyte disorders,1
+40503,168803,4,78551,Cardiogenic shock,Cardiogenic shock,293429,Shock,1
+40503,168803,5,4280,CHF NOS,"Congestive heart failure, unspecified",293429,Congestive heart failure; nonhypertensive,1
+40503,168803,6,42731,Atrial fibrillation,Atrial fibrillation,293429,Cardiac dysrhythmias,1
+40503,168803,7,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",293429,Diabetes mellitus without complication,1
+40503,168803,8,7213,Lumbosacral spondylosis,Lumbosacral spondylosis without myelopathy,293429,Spondylosis; intervertebral disc disorders; other back problems,0
+40503,168803,9,2721,Pure hyperglyceridemia,Pure hyperglyceridemia,293429,Disorders of lipid metabolism,1
+40503,168803,10,4019,Hypertension NOS,Unspecified essential hypertension,293429,Essential hypertension,1
+40503,168803,11,73730,Idiopathic scoliosis,"Scoliosis [and kyphoscoliosis], idiopathic",293429,Other bone disease and musculoskeletal deformities,0
+40503,168803,12,725,Polymyalgia rheumatica,Polymyalgia rheumatica,293429,Other connective tissue disease,0
+40503,168803,13,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,293429,Coronary atherosclerosis and other heart disease,1
+40503,168803,14,4240,Mitral valve disorder,Mitral valve disorders,293429,Heart valve disorders,0

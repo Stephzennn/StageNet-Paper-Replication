@@ -1,0 +1,11 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+40277,127703,1,85206,Subarach hem-coma NOS,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",219013,Intracranial injury,0
+40277,127703,2,2761,Hyposmolality,Hyposmolality and/or hyponatremia,219013,Fluid and electrolyte disorders,1
+40277,127703,3,85306,Brain hem NEC-coma NOS,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",219013,Intracranial injury,0
+40277,127703,4,E8889,Fall NOS,Unspecified fall,219013,Fall,0
+40277,127703,5,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",219013,Chronic obstructive pulmonary disease and bronchiectasis,1
+40277,127703,6,2768,Hypopotassemia,Hypopotassemia,219013,Fluid and electrolyte disorders,1
+40277,127703,7,7861,Stridor,Stridor,219013,Other upper respiratory disease,1
+40277,127703,8,4019,Hypertension NOS,Unspecified essential hypertension,219013,Essential hypertension,1
+40277,127703,9,30000,Anxiety state NOS,"Anxiety state, unspecified",219013,Anxiety disorders,0
+40277,127703,10,V1302,Personal history UTI,"Personal history, urinary (tract) infection",219013,Genitourinary symptoms and ill-defined conditions,0

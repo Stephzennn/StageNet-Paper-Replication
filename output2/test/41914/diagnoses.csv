@@ -1,0 +1,32 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+41914,101361,1,99731,Ventltr assoc pneumonia,Ventilator associated pneumonia,256338,Complications of surgical procedures or medical care,1
+41914,101361,2,51884,Acute & chronc resp fail,Acute and chronic respiratory failure,256338,Respiratory failure; insufficiency; arrest (adult),1
+41914,101361,3,5180,Pulmonary collapse,Pulmonary collapse,256338,Pleurisy; pneumothorax; pulmonary collapse,1
+41914,101361,4,5119,Pleural effusion NOS,Unspecified pleural effusion,256338,Pleurisy; pneumothorax; pulmonary collapse,1
+41914,101361,5,V4611,Respirator depend status,"Dependence on respirator, status",256338,Respiratory failure; insufficiency; arrest (adult),1
+41914,101361,6,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",256338,Acute and unspecified renal failure,1
+41914,101361,7,3481,Anoxic brain damage,Anoxic brain damage,256338,Coma; stupor; and brain damage,0
+41914,101361,8,99682,Compl liver transplant,Complications of transplanted liver,256338,Complication of device; implant or graft,0
+41914,101361,9,99592,Severe sepsis,Severe sepsis,256338,Septicemia (except in labor),1
+41914,101361,10,03843,Pseudomonas septicemia,Septicemia due to pseudomonas,256338,Septicemia (except in labor),1
+41914,101361,11,03849,Gram-neg septicemia NEC,Other septicemia due to gram-negative organisms,256338,Septicemia (except in labor),1
+41914,101361,12,V551,Atten to gastrostomy,Attention to gastrostomy,256338,Other gastrointestinal disorders,0
+41914,101361,13,4239,Pericardial disease NOS,Unspecified disease of pericardium,256338,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+41914,101361,14,490,Bronchitis NOS,"Bronchitis, not specified as acute or chronic",256338,Chronic obstructive pulmonary disease and bronchiectasis,1
+41914,101361,15,70707,"Pressure ulcer, heel","Pressure ulcer, heel",256338,Chronic ulcer of skin,0
+41914,101361,16,70720,"Pressure ulcer,stage NOS","Pressure ulcer, unspecified stage",256338,Chronic ulcer of skin,0
+41914,101361,17,70705,"Pressure ulcer, buttock","Pressure ulcer, buttock",256338,Chronic ulcer of skin,0
+41914,101361,18,70722,"Pressure ulcer, stage II","Pressure ulcer, stage II",256338,Chronic ulcer of skin,0
+41914,101361,19,30390,Alcoh dep NEC/NOS-unspec,"Other and unspecified alcohol dependence, unspecified",256338,Alcohol-related disorders,0
+41914,101361,20,5728,"Oth sequela, chr liv dis",Other sequelae of chronic liver disease,256338,Other liver diseases,1
+41914,101361,21,2859,Anemia NOS,"Anemia, unspecified",256338,Deficiency and other anemia,0
+41914,101361,22,4739,Chronic sinusitis NOS,Unspecified sinusitis (chronic),256338,Other upper respiratory infections,0
+41914,101361,23,4019,Hypertension NOS,Unspecified essential hypertension,256338,Essential hypertension,1
+41914,101361,24,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,256338,Disorders of lipid metabolism,1
+41914,101361,25,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",256338,Diabetes mellitus without complication,1
+41914,101361,26,V5867,Long-term use of insulin,Long-term (current) use of insulin,256338,Other aftercare,0
+41914,101361,27,V550,Atten to tracheostomy,Attention to tracheostomy,256338,Other upper respiratory disease,1
+41914,101361,28,V5419,Aftrce traum fx bone NEC,Aftercare for healing traumatic fracture of other bone,256338,Other fractures,0
+41914,101361,29,V5411,Aftrcare traum fx up arm,Aftercare for healing traumatic fracture of upper arm,256338,Fracture of upper limb,0
+41914,101361,30,E9290,Late eff motor vehic acc,Late effects of motor vehicle accident,256338,Other specified and classifiable,0
+41914,101361,31,V1582,History of tobacco use,Personal history of tobacco use,256338,Screening and history of mental health and substance abuse codes,0

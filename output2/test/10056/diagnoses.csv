@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10056,100375,1,0389,Septicemia NOS,Unspecified septicemia,285789,Septicemia (except in labor),1
+10056,100375,2,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",285789,Urinary tract infections,0
+10056,100375,3,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis,285789,Acute and unspecified renal failure,1
+10056,100375,5,78552,Septic shock,Septic shock,285789,Shock,1
+10056,100375,6,42831,Ac diastolic hrt failure,Acute diastolic heart failure,285789,Congestive heart failure; nonhypertensive,1
+10056,100375,7,4280,CHF NOS,"Congestive heart failure, unspecified",285789,Congestive heart failure; nonhypertensive,1
+10056,100375,8,2761,Hyposmolality,Hyposmolality and/or hyponatremia,285789,Fluid and electrolyte disorders,1
+10056,100375,9,99592,Severe sepsis,Severe sepsis,285789,Septicemia (except in labor),1

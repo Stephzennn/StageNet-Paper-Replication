@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10106,133283,1,0543,Herpetic encephalitis,Herpetic meningoencephalitis,217960,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),0
+10106,133283,2,30390,Alcoh dep NEC/NOS-unspec,"Other and unspecified alcohol dependence, unspecified",217960,Alcohol-related disorders,0
+10106,133283,3,49390,Asthma NOS,"Asthma, unspecified type, unspecified",217960,Asthma,0
+10106,133283,4,4019,Hypertension NOS,Unspecified essential hypertension,217960,Essential hypertension,1
+10106,133283,5,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",217960,Diabetes mellitus without complication,1

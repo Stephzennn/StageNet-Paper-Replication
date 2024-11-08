@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+43879,158100,1,51881,Acute respiratry failure,Acute respiratory failure,264258,Respiratory failure; insufficiency; arrest (adult),1
+43879,158100,2,2762,Acidosis,Acidosis,264258,Fluid and electrolyte disorders,1
+43879,158100,3,5119,Pleural effusion NOS,Unspecified pleural effusion,264258,Pleurisy; pneumothorax; pulmonary collapse,1
+43879,158100,4,E9379,Adv eff sedat/hypnot NOS,Unspecified sedatives and hypnotics causing adverse effects in therapeutic use,264258,Adverse effects of medical drugs,0
+43879,158100,5,7802,Syncope and collapse,Syncope and collapse,264258,Syncope,0
+43879,158100,6,53081,Esophageal reflux,Esophageal reflux,264258,Esophageal disorders,0
+43879,158100,7,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",264258,Mood disorders,0
+43879,158100,8,V103,Hx of breast malignancy,Personal history of malignant neoplasm of breast,264258,Cancer of breast,0

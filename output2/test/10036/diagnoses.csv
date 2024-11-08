@@ -1,0 +1,13 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10036,189483,1,0389,Septicemia NOS,Unspecified septicemia,227834,Septicemia (except in labor),1
+10036,189483,2,78552,Septic shock,Septic shock,227834,Shock,1
+10036,189483,3,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,227834,Aspiration pneumonitis; food/vomitus,0
+10036,189483,4,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",227834,Acute and unspecified renal failure,1
+10036,189483,5,2762,Acidosis,Acidosis,227834,Fluid and electrolyte disorders,1
+10036,189483,8,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,227834,Fluid and electrolyte disorders,1
+10036,189483,9,99592,Severe sepsis,Severe sepsis,227834,Septicemia (except in labor),1
+10036,189483,10,53081,Esophageal reflux,Esophageal reflux,227834,Esophageal disorders,0
+10036,189483,11,3310,Alzheimer's disease,Alzheimer's disease,227834,"Delirium, dementia, and amnestic and other cognitive disorders",0
+10036,189483,12,29410,Dementia w/o behav dist,Dementia in conditions classified elsewhere without behavioral disturbance,227834,"Delirium, dementia, and amnestic and other cognitive disorders",0
+10036,189483,13,725,Polymyalgia rheumatica,Polymyalgia rheumatica,227834,Other connective tissue disease,0
+10036,189483,14,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,227834,Thyroid disorders,0

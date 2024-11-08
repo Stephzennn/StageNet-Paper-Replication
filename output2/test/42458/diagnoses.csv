@@ -1,0 +1,7 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+42458,159647,1,4588,Hypotension NEC,Other specified hypotension,219307,Other circulatory disease,0
+42458,159647,2,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",219307,Acute and unspecified renal failure,1
+42458,159647,3,4270,Parox atrial tachycardia,Paroxysmal supraventricular tachycardia,219307,Cardiac dysrhythmias,1
+42458,159647,4,27652,Hypovolemia,Hypovolemia,219307,Fluid and electrolyte disorders,1
+42458,159647,5,2948,Mental disor NEC oth dis,Other persistent mental disorders due to conditions classified elsewhere,219307,"Delirium, dementia, and amnestic and other cognitive disorders",0
+42458,159647,6,72400,Spinal stenosis NOS,"Spinal stenosis, unspecified region",219307,Spondylosis; intervertebral disc disorders; other back problems,0

@@ -1,0 +1,12 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10074,170119,1,56985,Angio intes w hmrhg,Angiodysplasia of intestine with hemorrhage,224021,Other gastrointestinal disorders,0
+10074,170119,2,42731,Atrial fibrillation,Atrial fibrillation,224021,Cardiac dysrhythmias,1
+10074,170119,3,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",224021,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+10074,170119,4,39891,Rheumatic heart failure,Rheumatic heart failure (congestive),224021,Congestive heart failure; nonhypertensive,1
+10074,170119,5,3962,Mitral insuf/aort stenos,Mitral valve insufficiency and aortic valve stenosis,224021,Heart valve disorders,0
+10074,170119,6,3970,Tricuspid valve disease,Diseases of tricuspid valve,224021,Heart valve disorders,0
+10074,170119,8,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",224021,Acute and unspecified renal failure,1
+10074,170119,9,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,224021,Acute posthemorrhagic anemia,0
+10074,170119,10,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",224021,Chronic obstructive pulmonary disease and bronchiectasis,1
+10074,170119,11,42789,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias,224021,Cardiac dysrhythmias,1
+10074,170119,12,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,224021,Other aftercare,0

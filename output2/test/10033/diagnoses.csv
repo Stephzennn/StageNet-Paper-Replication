@@ -1,0 +1,13 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10033,157235,1,24220,Tox multnod goit no cris,Toxic multinodular goiter without mention of thyrotoxic crisis or storm,254543,Thyroid disorders,0
+10033,157235,2,51919,Trachea & bronch dis NEC,Other diseases of trachea and bronchus,254543,Other upper respiratory disease,1
+10033,157235,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",254543,Acute and unspecified renal failure,1
+10033,157235,4,2767,Hyperpotassemia,Hyperpotassemia,254543,Fluid and electrolyte disorders,1
+10033,157235,5,42731,Atrial fibrillation,Atrial fibrillation,254543,Cardiac dysrhythmias,1
+10033,157235,6,E8889,Fall NOS,Unspecified fall,254543,Fall,0
+10033,157235,7,4019,Hypertension NOS,Unspecified essential hypertension,254543,Essential hypertension,1
+10033,157235,8,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",254543,Diabetes mellitus without complication,1
+10033,157235,9,2720,Pure hypercholesterolem,Pure hypercholesterolemia,254543,Disorders of lipid metabolism,1
+10033,157235,10,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",254543,Mood disorders,0
+10033,157235,11,43811,Late eff CV dis-aphasia,"Late effects of cerebrovascular disease, aphasia",254543,Late effects of cerebrovascular disease,0
+10033,157235,12,53390,Peptic ulcer NOS,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",254543,Gastroduodenal ulcer (except hemorrhage),0

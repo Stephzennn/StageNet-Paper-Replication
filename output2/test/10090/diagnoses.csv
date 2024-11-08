@@ -1,0 +1,8 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10090,176805,1,9693,Poison-antipsychotic NEC,"Poisoning by other antipsychotics, neuroleptics, and major tranquilizers",295741,Poisoning by psychotropic agents,0
+10090,176805,2,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,295741,Acute posthemorrhagic anemia,0
+10090,176805,3,29633,Recur depr psych-severe,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior",295741,Mood disorders,0
+10090,176805,4,9680,Pois-cns muscle depress,Poisoning by central nervous system muscle-tone depressants,295741,Poisoning by other medications and drugs,0
+10090,176805,5,9694,Pois-benzodiazepine tran,Poisoning by benzodiazepine-based tranquilizers,295741,Poisoning by psychotropic agents,0
+10090,176805,6,E9503,Poison-psychotropic agt,Suicide and self-inflicted poisoning by tranquilizers and other psychotropic agents,295741,Suicide and intentional self-inflicted injury,0
+10090,176805,7,E9504,Poison-drug/medicin NEC,Suicide and self-inflicted poisoning by other specified drugs and medicinal substances,295741,Suicide and intentional self-inflicted injury,0

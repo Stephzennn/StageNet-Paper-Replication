@@ -1,0 +1,4 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10046,133110,1,1983,Sec mal neo brain/spine,Secondary malignant neoplasm of brain and spinal cord,213289,Secondary malignancies,0
+10046,133110,2,78039,Convulsions NEC,Other convulsions,213289,Epilepsy; convulsions,0
+10046,133110,3,V1042,Hx-uterus malignancy NEC,Personal history of malignant neoplasm of other parts of uterus,213289,Cancer of uterus,0

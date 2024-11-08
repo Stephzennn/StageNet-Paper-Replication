@@ -1,0 +1,22 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10059,142582,1,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol,215460,Other liver diseases,1
+10059,142582,2,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",215460,Acute and unspecified renal failure,1
+10059,142582,3,07070,Hpt C w/o hepat coma NOS,Unspecified viral hepatitis C without hepatic coma,215460,Hepatitis,0
+10059,142582,4,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic),215460,Deficiency and other anemia,0
+10059,142582,5,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",215460,Coagulation and hemorrhagic disorders,0
+10059,142582,7,45620,Bleed esoph var oth dis,"Esophageal varices in diseases classified elsewhere, with bleeding",215460,Gastrointestinal hemorrhage,1
+10059,142582,8,5723,Portal hypertension,Portal hypertension,215460,Other liver diseases,1
+10059,142582,9,4019,Hypertension NOS,Unspecified essential hypertension,215460,Essential hypertension,1
+10059,122098,1,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol,248755,Other liver diseases,1
+10059,122098,2,452,Portal vein thrombosis,Portal vein thrombosis,248755,Phlebitis; thrombophlebitis and thromboembolism,0
+10059,122098,3,07070,Hpt C w/o hepat coma NOS,Unspecified viral hepatitis C without hepatic coma,248755,Hepatitis,0
+10059,122098,4,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic),248755,Deficiency and other anemia,0
+10059,122098,5,45620,Bleed esoph var oth dis,"Esophageal varices in diseases classified elsewhere, with bleeding",248755,Gastrointestinal hemorrhage,1
+10059,122098,6,0389,Septicemia NOS,Unspecified septicemia,248755,Septicemia (except in labor),1
+10059,122098,7,99592,Severe sepsis,Severe sepsis,248755,Septicemia (except in labor),1
+10059,122098,8,78552,Septic shock,Septic shock,248755,Shock,1
+10059,122098,9,51881,Acute respiratry failure,Acute respiratory failure,248755,Respiratory failure; insufficiency; arrest (adult),1
+10059,122098,10,5724,Hepatorenal syndrome,Hepatorenal syndrome,248755,Other liver diseases,1
+10059,122098,11,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",248755,Acute and unspecified renal failure,1
+10059,122098,12,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified",248755,Chronic kidney disease,1
+10059,122098,14,5723,Portal hypertension,Portal hypertension,248755,Other liver diseases,1

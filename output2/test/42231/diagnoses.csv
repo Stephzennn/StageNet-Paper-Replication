@@ -1,0 +1,14 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+42231,171878,1,1890,Malig neopl kidney,"Malignant neoplasm of kidney, except pelvis",254635,Cancer of kidney and renal pelvis,0
+42231,171878,2,1966,Mal neo lymph-intrapelv,Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes,254635,Secondary malignancies,0
+42231,171878,3,9982,Accidental op laceration,"Accidental puncture or laceration during a procedure, not elsewhere classified",254635,Complications of surgical procedures or medical care,1
+42231,171878,4,5119,Pleural effusion NOS,Unspecified pleural effusion,254635,Pleurisy; pneumothorax; pulmonary collapse,1
+42231,171878,5,2930,Delirium d/t other cond,Delirium due to conditions classified elsewhere,254635,"Delirium, dementia, and amnestic and other cognitive disorders",0
+42231,171878,6,E8700,Acc cut/hem in surgery,"Accidental cut, puncture, perforation or hemorrhage during surgical operation",254635,Adverse effects of medical care,0
+42231,171878,7,4019,Hypertension NOS,Unspecified essential hypertension,254635,Essential hypertension,1
+42231,171878,8,42731,Atrial fibrillation,Atrial fibrillation,254635,Cardiac dysrhythmias,1
+42231,171878,9,42789,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias,254635,Cardiac dysrhythmias,1
+42231,171878,10,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,254635,Disorders of lipid metabolism,1
+42231,171878,11,V103,Hx of breast malignancy,Personal history of malignant neoplasm of breast,254635,Cancer of breast,0
+42231,171878,12,2859,Anemia NOS,"Anemia, unspecified",254635,Deficiency and other anemia,0
+42231,171878,13,45829,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension,254635,Complications of surgical procedures or medical care,1

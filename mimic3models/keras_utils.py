@@ -1,19 +1,26 @@
 import numpy as np
-from mimic3models import metrics
+import os
+import sys
+sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3benchmark'))
+print("Current Working Directory:", os.getcwd())
 
-import keras
-import keras.backend as K
+#from mimic3models import metrics
+import metrics
+
+#from tensorflow  .keras import backend as K
+import keras._tf_keras.keras.backend as K
+
 
 if K.backend() == 'tensorflow':
     import tensorflow as tf
-
-from keras.layers import Layer
-
+from keras._tf_keras.keras.layers import Layer
+#from keras.layers import Layer
+from keras._tf_keras.keras.callbacks import Callback as Callback
 
 # ===================== METRICS ===================== #
 
 
-class DecompensationMetrics(keras.callbacks.Callback):
+class DecompensationMetrics(Callback):
     def __init__(self, train_data_gen, val_data_gen, deep_supervision,
                  batch_size=32, early_stopping=True, verbose=2):
         super(DecompensationMetrics, self).__init__()
@@ -63,7 +70,7 @@ class DecompensationMetrics(keras.callbacks.Callback):
                 self.model.stop_training = True
 
 
-class InHospitalMortalityMetrics(keras.callbacks.Callback):
+class InHospitalMortalityMetrics(Callback):
     def __init__(self, train_data, val_data, target_repl, batch_size=32, early_stopping=True, verbose=2):
         super(InHospitalMortalityMetrics, self).__init__()
         self.train_data = train_data
@@ -113,7 +120,7 @@ class InHospitalMortalityMetrics(keras.callbacks.Callback):
                 self.model.stop_training = True
 
 
-class PhenotypingMetrics(keras.callbacks.Callback):
+class PhenotypingMetrics(Callback):
     def __init__(self, train_data_gen, val_data_gen, batch_size=32,
                  early_stopping=True, verbose=2):
         super(PhenotypingMetrics, self).__init__()
@@ -159,7 +166,7 @@ class PhenotypingMetrics(keras.callbacks.Callback):
                 self.model.stop_training = True
 
 
-class LengthOfStayMetrics(keras.callbacks.Callback):
+class LengthOfStayMetrics(Callback):
     def __init__(self, train_data_gen, val_data_gen, partition, batch_size=32,
                  early_stopping=True, verbose=2):
         super(LengthOfStayMetrics, self).__init__()
@@ -223,7 +230,7 @@ class LengthOfStayMetrics(keras.callbacks.Callback):
                 self.model.stop_training = True
 
 
-class MultitaskMetrics(keras.callbacks.Callback):
+class MultitaskMetrics(Callback):
     def __init__(self, train_data_gen, val_data_gen, partition,
                  batch_size=32, early_stopping=True, verbose=2):
         super(MultitaskMetrics, self).__init__()

@@ -1,0 +1,20 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+40177,198480,1,5761,Cholangitis,Cholangitis,285750,Biliary tract disease,0
+40177,198480,2,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",285750,Acute and unspecified renal failure,1
+40177,198480,3,5770,Acute pancreatitis,Acute pancreatitis,285750,Pancreatic disorders (not diabetes),0
+40177,198480,4,57471,Gall&bil cal w/oth w obs,"Calculus of gallbladder and bile duct with other cholecystitis, with obstruction",285750,Biliary tract disease,0
+40177,198480,5,5180,Pulmonary collapse,Pulmonary collapse,285750,Pleurisy; pneumothorax; pulmonary collapse,1
+40177,198480,6,5119,Pleural effusion NOS,Unspecified pleural effusion,285750,Pleurisy; pneumothorax; pulmonary collapse,1
+40177,198480,7,2762,Acidosis,Acidosis,285750,Fluid and electrolyte disorders,1
+40177,198480,8,570,Acute necrosis of liver,Acute and subacute necrosis of liver,285750,Other liver diseases,1
+40177,198480,9,0389,Septicemia NOS,Unspecified septicemia,285750,Septicemia (except in labor),1
+40177,198480,10,99592,Severe sepsis,Severe sepsis,285750,Septicemia (except in labor),1
+40177,198480,11,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,285750,Acute posthemorrhagic anemia,0
+40177,198480,12,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",285750,Acute myocardial infarction,1
+40177,198480,13,27651,Dehydration,Dehydration,285750,Fluid and electrolyte disorders,1
+40177,198480,14,2767,Hyperpotassemia,Hyperpotassemia,285750,Fluid and electrolyte disorders,1
+40177,198480,15,3659,Glaucoma NOS,Unspecified glaucoma,285750,Glaucoma,0
+40177,198480,16,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,285750,Disorders of lipid metabolism,1
+40177,198480,17,4019,Hypertension NOS,Unspecified essential hypertension,285750,Essential hypertension,1
+40177,198480,18,V4581,Aortocoronary bypass,Aortocoronary bypass status,285750,Coronary atherosclerosis and other heart disease,1
+40177,198480,19,41400,Cor ath unsp vsl ntv/gft,"Coronary atherosclerosis of unspecified type of vessel, native or graft",285750,Coronary atherosclerosis and other heart disease,1

@@ -1,0 +1,15 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10017,199207,1,81201,Fx surg nck humerus-clos,Closed fracture of surgical neck of humerus,204881,Fracture of upper limb,0
+10017,199207,2,4928,Emphysema NEC,Other emphysema,204881,Chronic obstructive pulmonary disease and bronchiectasis,1
+10017,199207,3,8028,Fx facial bone NEC-close,Closed fracture of other facial bones,204881,Skull and face fractures,0
+10017,199207,4,8024,Fx malar/maxillary-close,Closed fracture of malar and maxillary bones,204881,Skull and face fractures,0
+10017,199207,5,99812,Hematoma complic proc,Hematoma complicating a procedure,204881,Complications of surgical procedures or medical care,1
+10017,199207,6,41511,Iatrogen pulm emb/infarc,Iatrogenic pulmonary embolism and infarction,204881,Complications of surgical procedures or medical care,1
+10017,199207,7,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,204881,Acute posthemorrhagic anemia,0
+10017,199207,8,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",204881,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+10017,199207,9,E8859,Fall from slipping NEC,"Fall from other slipping, tripping, or stumbling",204881,Fall,0
+10017,199207,10,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",204881,Diabetes mellitus without complication,1
+10017,199207,11,E8788,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",204881,Adverse effects of medical care,0
+10017,199207,12,V1259,Hx-circulatory dis NEC,Personal history of other diseases of circulatory system,204881,Other circulatory disease,0
+10017,199207,13,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,204881,Disorders of lipid metabolism,1
+10017,199207,14,4019,Hypertension NOS,Unspecified essential hypertension,204881,Essential hypertension,1

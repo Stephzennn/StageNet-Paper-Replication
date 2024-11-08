@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10117,187023,1,5290,Glossitis,Glossitis,214861,Diseases of mouth; excluding dental,0
+10117,187023,2,7907,Bacteremia,Bacteremia,214861,Septicemia (except in labor),1
+10117,187023,3,2762,Acidosis,Acidosis,214861,Fluid and electrolyte disorders,1
+10117,187023,4,20300,Mult mye w/o achv rmson,"Multiple myeloma, without mention of having achieved remission",214861,Multiple myeloma,0
+10117,187023,5,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",214861,Coagulation and hemorrhagic disorders,0

@@ -1,0 +1,20 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+10094,168074,1,2273,Benign neo pituitary,Benign neoplasm of pituitary gland and craniopharyngeal duct,243600,Other and unspecified benign neoplasm,0
+10094,168074,2,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",243600,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+10094,168074,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",243600,Acute and unspecified renal failure,1
+10094,168074,4,2532,Panhypopituitarism,Panhypopituitarism,243600,Other endocrine disorders,0
+10094,168074,5,3970,Tricuspid valve disease,Diseases of tricuspid valve,243600,Heart valve disorders,0
+10094,168074,6,4280,CHF NOS,"Congestive heart failure, unspecified",243600,Congestive heart failure; nonhypertensive,1
+10094,168074,7,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,243600,Fluid and electrolyte disorders,1
+10094,168074,8,70706,"Pressure ulcer, ankle","Pressure ulcer, ankle",243600,Chronic ulcer of skin,0
+10094,168074,10,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",243600,Diabetes mellitus without complication,1
+10094,168074,11,2948,Mental disor NEC oth dis,Other persistent mental disorders due to conditions classified elsewhere,243600,"Delirium, dementia, and amnestic and other cognitive disorders",0
+10094,168074,12,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,243600,Thyroid disorders,0
+10094,122928,1,0389,Septicemia NOS,Unspecified septicemia,273347,Septicemia (except in labor),1
+10094,122928,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,273347,Aspiration pneumonitis; food/vomitus,0
+10094,122928,3,4280,CHF NOS,"Congestive heart failure, unspecified",273347,Congestive heart failure; nonhypertensive,1
+10094,122928,4,00845,Int inf clstrdium dfcile,Intestinal infection due to Clostridium difficile,273347,Intestinal infection,0
+10094,122928,5,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,273347,Fluid and electrolyte disorders,1
+10094,122928,6,99592,Severe sepsis,Severe sepsis,273347,Septicemia (except in labor),1
+10094,122928,7,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",273347,Diabetes mellitus without complication,1
+10094,122928,8,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,273347,Thyroid disorders,0

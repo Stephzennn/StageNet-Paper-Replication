@@ -1,0 +1,24 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+44212,163189,1,03811,Meth susc Staph aur sept,Methicillin susceptible Staphylococcus aureus septicemia,239396,Septicemia (except in labor),1
+44212,163189,2,78552,Septic shock,Septic shock,239396,Shock,1
+44212,163189,3,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis,239396,Acute and unspecified renal failure,1
+44212,163189,4,48241,Meth sus pneum d/t Staph,Methicillin susceptible pneumonia due to Staphylococcus aureus,239396,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+44212,163189,5,51881,Acute respiratry failure,Acute respiratory failure,239396,Respiratory failure; insufficiency; arrest (adult),1
+44212,163189,6,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",239396,Urinary tract infections,0
+44212,163189,7,3481,Anoxic brain damage,Anoxic brain damage,239396,Coma; stupor; and brain damage,0
+44212,163189,8,28731,Immune thrombocyt purpra,Immune thrombocytopenic purpura,239396,Coagulation and hemorrhagic disorders,0
+44212,163189,9,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,239396,Fluid and electrolyte disorders,1
+44212,163189,10,5566,Univrsl ulcertve colitis,Universal ulcerative (chronic) colitis,239396,Regional enteritis and ulcerative colitis,0
+44212,163189,11,570,Acute necrosis of liver,Acute and subacute necrosis of liver,239396,Other liver diseases,1
+44212,163189,12,5722,Hepatic encephalopathy,Hepatic encephalopathy,239396,Other liver diseases,1
+44212,163189,13,78959,Ascites NEC,Other ascites,239396,Other liver diseases,1
+44212,163189,14,452,Portal vein thrombosis,Portal vein thrombosis,239396,Phlebitis; thrombophlebitis and thromboembolism,0
+44212,163189,15,5855,Chron kidney dis stage V,"Chronic kidney disease, Stage V",239396,Chronic kidney disease,1
+44212,163189,16,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",239396,Hypertension with complications and secondary hypertension,1
+44212,163189,17,2839,Acq hemolytic anemia NOS,"Acquired hemolytic anemia, unspecified",239396,Deficiency and other anemia,0
+44212,163189,18,5601,Paralytic ileus,Paralytic ileus,239396,Intestinal obstruction without hernia,0
+44212,163189,19,99592,Severe sepsis,Severe sepsis,239396,Septicemia (except in labor),1
+44212,163189,21,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",239396,Chronic ulcer of skin,0
+44212,163189,22,70723,"Pressure ulcer,stage III","Pressure ulcer, stage III",239396,Chronic ulcer of skin,0
+44212,163189,23,5711,Ac alcoholic hepatitis,Acute alcoholic hepatitis,239396,Alcohol-related disorders,0
+44212,163189,24,5712,Alcohol cirrhosis liver,Alcoholic cirrhosis of liver,239396,Alcohol-related disorders,0
