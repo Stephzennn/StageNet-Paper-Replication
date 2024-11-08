@@ -1,4 +1,9 @@
-from mimic3models.metrics import print_metrics_binary
+import sys
+import os
+sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3models'))
+
+#from mimic3models.metrics import print_metrics_binary
+from metrics import print_metrics_binary
 import sklearn.utils as sk_utils
 import numpy as np
 import pandas as pd
@@ -21,6 +26,7 @@ def main():
 
     df = test_df.merge(pred_df, left_on=['stay', 'period_length'], right_on=['stay', 'period_length'],
                        how='left', suffixes=['_l', '_r'])
+    print(df)
     assert (df['prediction'].isnull().sum() == 0)
     assert (df['y_true_l'].equals(df['y_true_r']))
 

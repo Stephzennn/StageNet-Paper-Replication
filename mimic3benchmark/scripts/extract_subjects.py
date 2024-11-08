@@ -8,7 +8,7 @@ import sys
 #sys.path.append(os.path.abspath('./mimic3benchmark'))
 
 sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3benchmark'))
-print("Current Working Directory:", os.getcwd())
+
 from mimic3csv import *
 #from mimic3benchmark.preprocessing import add_hcup_ccs_2015_groups, make_phenotype_label_matrix
 
