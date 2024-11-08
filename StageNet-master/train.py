@@ -15,7 +15,7 @@ np.random.seed(RANDOM_SEED)
 random.seed(RANDOM_SEED)
 
 import torch
-print("herere")
+
 print(torch.cuda.is_available())
 from torch import nn
 import torch.nn.utils.rnn as rnn_utils
