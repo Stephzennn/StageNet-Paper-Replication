@@ -1,8 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-42033,154156,1,42821,Ac systolic hrt failure,Acute systolic heart failure,256542,Congestive heart failure; nonhypertensive,1
-42033,154156,2,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified",256542,Complications of surgical procedures or medical care,1
-42033,154156,3,4160,Prim pulm hypertension,Primary pulmonary hypertension,256542,Pulmonary heart disease,0
-42033,154156,4,4280,CHF NOS,"Congestive heart failure, unspecified",256542,Congestive heart failure; nonhypertensive,1
-42033,154156,5,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,256542,Coronary atherosclerosis and other heart disease,1
-42033,154156,6,42731,Atrial fibrillation,Atrial fibrillation,256542,Cardiac dysrhythmias,1
-42033,154156,7,3962,Mitral insuf/aort stenos,Mitral valve insufficiency and aortic valve stenosis,256542,Heart valve disorders,0

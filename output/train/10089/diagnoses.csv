@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-10089,190301,1,431,Intracerebral hemorrhage,Intracerebral hemorrhage,246080,Acute cerebrovascular disease,1
-10089,190301,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,246080,Aspiration pneumonitis; food/vomitus,0
-10089,190301,3,4019,Hypertension NOS,Unspecified essential hypertension,246080,Essential hypertension,1
-10089,190301,4,V4581,Aortocoronary bypass,Aortocoronary bypass status,246080,Coronary atherosclerosis and other heart disease,1
-10089,190301,5,41400,Cor ath unsp vsl ntv/gft,"Coronary atherosclerosis of unspecified type of vessel, native or graft",246080,Coronary atherosclerosis and other heart disease,1

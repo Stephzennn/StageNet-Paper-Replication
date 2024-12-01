@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-10032,140372,1,81249,Fx lower humerus NEC-cl,Other closed fracture of lower end of humerus,267090,Fracture of upper limb,0
-10032,140372,2,1985,Secondary malig neo bone,Secondary malignant neoplasm of bone and bone marrow,267090,Secondary malignancies,0
-10032,140372,3,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,267090,Aspiration pneumonitis; food/vomitus,0
-10032,140372,4,42830,Diastolc hrt failure NOS,"Diastolic heart failure, unspecified",267090,Congestive heart failure; nonhypertensive,1
-10032,140372,5,4280,CHF NOS,"Congestive heart failure, unspecified",267090,Congestive heart failure; nonhypertensive,1
-10032,140372,6,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,267090,Acute posthemorrhagic anemia,0
-10032,140372,8,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",267090,Coagulation and hemorrhagic disorders,0
-10032,140372,9,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",267090,Acute and unspecified renal failure,1

@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-10043,168674,1,51881,Acute respiratry failure,Acute respiratory failure,266122,Respiratory failure; insufficiency; arrest (adult),1
-10043,168674,2,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",266122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
-10043,168674,3,49121,Obs chr bronc w(ac) exac,Obstructive chronic bronchitis with (acute) exacerbation,266122,Chronic obstructive pulmonary disease and bronchiectasis,1
-10043,168674,4,00845,Int inf clstrdium dfcile,Intestinal infection due to Clostridium difficile,266122,Intestinal infection,0
-10043,168674,5,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",266122,Coagulation and hemorrhagic disorders,0
-10043,168674,6,42831,Ac diastolic hrt failure,Acute diastolic heart failure,266122,Congestive heart failure; nonhypertensive,1
-10043,168674,7,4280,CHF NOS,"Congestive heart failure, unspecified",266122,Congestive heart failure; nonhypertensive,1
-10043,168674,8,28529,Anemia-other chronic dis,Anemia of other chronic disease,266122,Deficiency and other anemia,0

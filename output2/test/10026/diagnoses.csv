@@ -1,8 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-10026,103770,1,431,Intracerebral hemorrhage,Intracerebral hemorrhage,277021,Acute cerebrovascular disease,1
-10026,103770,2,4010,Malignant hypertension,Malignant essential hypertension,277021,Hypertension with complications and secondary hypertension,1
-10026,103770,3,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",277021,Urinary tract infections,0
-10026,103770,4,2761,Hyposmolality,Hyposmolality and/or hyponatremia,277021,Fluid and electrolyte disorders,1
-10026,103770,5,V103,Hx of breast malignancy,Personal history of malignant neoplasm of breast,277021,Cancer of breast,0
-10026,103770,6,3569,Idio periph neurpthy NOS,Unspecified hereditary and idiopathic peripheral neuropathy,277021,Other nervous system disorders,0
-10026,103770,7,2859,Anemia NOS,"Anemia, unspecified",277021,Deficiency and other anemia,0

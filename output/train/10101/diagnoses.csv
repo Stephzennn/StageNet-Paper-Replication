@@ -1,8 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-10101,142539,1,1628,Mal neo bronch/lung NEC,Malignant neoplasm of other parts of bronchus or lung,293280,Cancer of bronchus; lung,0
-10101,142539,2,1970,Secondary malig neo lung,Secondary malignant neoplasm of lung,293280,Secondary malignancies,0
-10101,142539,3,1977,Second malig neo liver,"Malignant neoplasm of liver, secondary",293280,Secondary malignancies,0
-10101,142539,4,1987,Second malig neo adrenal,Secondary malignant neoplasm of adrenal gland,293280,Secondary malignancies,0
-10101,142539,5,1980,Second malig neo kidney,Secondary malignant neoplasm of kidney,293280,Secondary malignancies,0
-10101,142539,6,1976,Sec mal neo peritoneum,Secondary malignant neoplasm of retroperitoneum and peritoneum,293280,Secondary malignancies,0
-10101,142539,7,19889,Secondary malig neo NEC,Secondary malignant neoplasm of other specified sites,293280,Secondary malignancies,0

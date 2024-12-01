@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-10130,156668,1,56981,Intestinal fistula,"Fistula of intestine, excluding rectum and anus",241562,Other gastrointestinal disorders,0
-10130,156668,3,0389,Septicemia NOS,Unspecified septicemia,241562,Septicemia (except in labor),1
-10130,156668,4,2761,Hyposmolality,Hyposmolality and/or hyponatremia,241562,Fluid and electrolyte disorders,1
-10130,156668,5,1977,Second malig neo liver,"Malignant neoplasm of liver, secondary",241562,Secondary malignancies,0
-10130,156668,6,1976,Sec mal neo peritoneum,Secondary malignant neoplasm of retroperitoneum and peritoneum,241562,Secondary malignancies,0
-10130,156668,7,261,Nutritional marasmus,Nutritional marasmus,241562,Nutritional deficiencies,0
-10130,156668,8,V1005,Hx of colonic malignancy,Personal history of malignant neoplasm of large intestine,241562,Cancer of colon,0
-10130,156668,9,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",241562,Diabetes mellitus without complication,1

@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-10098,180685,1,80375,Opn skl fx NEC-deep coma,"Other open skull fracture with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level",262670,Intracranial injury,0
-10098,180685,2,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia,262670,Cardiac dysrhythmias,1
-10098,180685,3,E8120,Mv collision NOS-driver,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle,262670,Motor vehicle traffic (MVT),0
-10098,180685,4,E8495,Accid on street/highway,Street and highway accidents,262670,Place of occurrence,0
-10098,180685,5,87349,Open wound of face NEC,"Open wound of other and multiple sites of face, without mention of complication",262670,Open wounds of head; neck; and trunk,0

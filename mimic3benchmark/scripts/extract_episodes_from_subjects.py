@@ -4,6 +4,11 @@ import sys
 from tqdm import tqdm
 import sys
 #sys.path.append(os.path.abspath('./mimic3benchmark'))
+import warnings
+import pandas as pd
+# Suppress specific performance warning
+warnings.filterwarnings('ignore')
+
 
 sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3benchmark'))
 print("Current Working Directory:", os.getcwd())

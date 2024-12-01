@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-10104,177678,1,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",204201,Urinary tract infections,0
-10104,177678,2,2761,Hyposmolality,Hyposmolality and/or hyponatremia,204201,Fluid and electrolyte disorders,1
-10104,177678,3,78039,Convulsions NEC,Other convulsions,204201,Epilepsy; convulsions,0
-10104,177678,4,2555,Adrenal hypofunction NEC,Other adrenal hypofunction,204201,Other endocrine disorders,0
-10104,177678,6,2720,Pure hypercholesterolem,Pure hypercholesterolemia,204201,Disorders of lipid metabolism,1
-10104,177678,7,4019,Hypertension NOS,Unspecified essential hypertension,204201,Essential hypertension,1
-10104,177678,8,49390,Asthma NOS,"Asthma, unspecified type, unspecified",204201,Asthma,0
-10104,177678,9,73300,Osteoporosis NOS,"Osteoporosis, unspecified",204201,Osteoporosis,0

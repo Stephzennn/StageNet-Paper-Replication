@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-10067,160442,1,86404,"Liver laceration, major","Injury to liver without mention of open wound into cavity, laceration, major",236674,Crushing injury or internal injury,0
-10067,160442,2,8504,Concussion-deep coma,"Concussion with prolonged loss of consciousness, without return to pre-existing conscious level",236674,Intracranial injury,0
-10067,160442,3,9584,Traumatic shock,Traumatic shock,236674,Other injuries and conditions due to external causes,0
-10067,160442,4,4275,Cardiac arrest,Cardiac arrest,236674,Cardiac arrest and ventricular fibrillation,0
-10067,160442,5,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,236674,Acute posthemorrhagic anemia,0
-10067,160442,6,E8232,Oth coll stnd obj-mocycl,Other motor vehicle nontraffic accident involving collision with stationary object injuring motorcyclist,236674,Transport; not MVT,0
-10067,160442,7,86389,GI injury NEC-closed,"Injury to other gastrointestinal sites, without mention of open wound into cavity",236674,Crushing injury or internal injury,0
-10067,160442,8,73689,Oth acq limb deformity,Other acquired deformity of other parts of limb,236674,Other acquired deformities,0

@@ -1,6 +1,12 @@
-from mimic3models import common_utils
-import threading
+
+import sys
 import os
+sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3models'))
+
+#from mimic3models import common_utils
+import common_utils
+import threading
+
 import numpy as np
 import random
 

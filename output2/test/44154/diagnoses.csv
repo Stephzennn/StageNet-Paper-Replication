@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-44154,174245,1,0389,Septicemia NOS,Unspecified septicemia,217724,Septicemia (except in labor),1
-44154,174245,3,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,217724,Aspiration pneumonitis; food/vomitus,0
-44154,174245,4,99592,Severe sepsis,Severe sepsis,217724,Septicemia (except in labor),1
-44154,174245,5,42731,Atrial fibrillation,Atrial fibrillation,217724,Cardiac dysrhythmias,1
-44154,174245,6,72400,Spinal stenosis NOS,"Spinal stenosis, unspecified region",217724,Spondylosis; intervertebral disc disorders; other back problems,0
-44154,174245,7,36250,Macular degeneration NOS,"Macular degeneration (senile), unspecified",217724,Retinal detachments; defects; vascular occlusion; and retinopathy,0
-44154,174245,8,71690,Arthropathy NOS-unspec,"Arthropathy, unspecified, site unspecified",217724,Other non-traumatic joint disorders,0
-44154,174245,9,4549,Asympt varicose veins,Asymptomatic varicose veins,217724,Varicose veins of lower extremity,0

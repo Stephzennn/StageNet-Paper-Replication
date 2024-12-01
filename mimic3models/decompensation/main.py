@@ -1,9 +1,37 @@
+#!C:/Users/Estif/anaconda3/envs/mimic3/python.exe
+
+
+import tensorflow as tf
+
+from tensorflow.python.client import device_lib
+
+import tensorflow as tf
+from tensorflow.python.client import device_lib
+
+def get_available_gpus():
+    local_device_protos = device_lib.list_local_devices()
+    return [x.name for x in local_device_protos if x.device_type == 'GPU']
+
+gpus = get_available_gpus()
+if gpus:
+    print(f"Number of GPUs available: {len(gpus)}")
+    for gpu in gpus:
+        print(f"GPU available: {gpu}")
+else:
+    print("No GPU available, using CPU instead.")
+
+
+
 import numpy as np
 import argparse
 import os
-import imp
+#import imp
+import importlib
 import re
-
+import sys
+sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3models'))
+print("Current Working Directory:", os.getcwd())
+'''
 from mimic3models.decompensation import utils
 from mimic3benchmark.readers import DecompensationReader
 
@@ -12,7 +40,25 @@ from mimic3models import metrics
 from mimic3models import keras_utils
 from mimic3models import common_utils
 
+'''
+
+
+from decompensation import utils
+sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3benchmark'))
+
+from readers import DecompensationReader
+
+sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3models'))
+from preprocessing import Discretizer, Normalizer
+import metrics
+import keras_utils
+import common_utils
+
+
+
 from keras.callbacks import ModelCheckpoint, CSVLogger
+
+#from keras._tf_keras.keras.callbacks import ModelCheckpoint, CSVLogger
 
 
 parser = argparse.ArgumentParser()
@@ -68,8 +114,10 @@ args_dict['task'] = 'decomp'
 
 # Build the model
 print("==> using model {}".format(args.network))
-model_module = imp.load_source(os.path.basename(args.network), args.network)
-model = model_module.Network(**args_dict)
+#model_module = imp.load_source(os.path.basename(args.network), args.network)
+from keras_models import lstm 
+model = lstm.Network(**args_dict)
+#model = model_module.Network(**args_dict)
 suffix = "{}.bs{}{}{}.ts{}".format("" if not args.deep_supervision else ".dsup",
                                    args.batch_size,
                                    ".L1{}".format(args.l1) if args.l1 > 0 else "",
@@ -130,6 +178,29 @@ if args.mode == 'train':
     dirname = os.path.dirname(path)
     if not os.path.exists(dirname):
         os.makedirs(dirname)
+
+    #!C:/Users/Estif/anaconda3/envs/mimic3/python.exe
+
+    # Print TensorFlow version 
+    import os
+
+    # Get the current environment
+    current_env = os.environ.get('CONDA_DEFAULT_ENV')
+
+    # Print the current environment
+    print(f"Current Conda environment: {current_env}")
+
+    # You can also print the Python version and paths for more context
+    import sys
+    print(f"Python version: {sys.version}")
+    print(f"Python executable: {sys.executable}")
+
+    import tensorflow as tf 
+    import keras
+    print(f"TensorFlow version: {tf.__version__}")
+    # Print Keras version 
+    print(f"Keras version: {keras.__version__}")
+
     saver = ModelCheckpoint(path, verbose=1, period=args.save_every)
 
     keras_logs = os.path.join(args.output_dir, 'keras_logs')
@@ -137,17 +208,19 @@ if args.mode == 'train':
         os.makedirs(keras_logs)
     csv_logger = CSVLogger(os.path.join(keras_logs, model.final_name + '.csv'),
                            append=True, separator=';')
+    
+    
 
     print("==> training")
     model.fit_generator(generator=train_data_gen,
                         steps_per_epoch=train_data_gen.steps,
                         validation_data=val_data_gen,
                         validation_steps=val_data_gen.steps,
-                        epochs=n_trained_chunks + args.epochs,
+                        epochs= 1 ,
                         initial_epoch=n_trained_chunks,
                         callbacks=[metrics_callback, saver, csv_logger],
                         verbose=args.verbose)
-
+    model.summary()
 elif args.mode == 'test':
 
     # ensure that the code uses test_reader

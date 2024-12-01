@@ -2,8 +2,10 @@ import numpy as np
 import os
 import json
 import random
+import sys
+sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3models'))
 
-from mimic3models.feature_extractor import extract_features
+from feature_extractor import extract_features
 
 
 def convert_to_dict(data, header, channel_info):

@@ -1,13 +1,26 @@
 import numpy as np
-from mimic3models import metrics
+import os 
+import sys
+sys.path.append(os.path.abspath('C:/Users/Estif/Desktop/machine_problems/TOP/OMSCS_BIG_DATA_FOR_HEALTHCARE/FinalProject/StageNet-Paper-Replication/mimic3models'))
 
+
+#from mimic3models import metrics
+import metrics
 import keras
 import keras.backend as K
+
+
+from keras.layers import Layer
+#import keras._tf_keras.keras
+
+#import keras._tf_keras.keras.backend as K
+
+#from keras._tf_keras.keras.layers import Layer
+
 
 if K.backend() == 'tensorflow':
     import tensorflow as tf
 
-from keras.layers import Layer
 
 
 # ===================== METRICS ===================== #

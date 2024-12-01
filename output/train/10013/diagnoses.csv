@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-10013,165520,1,0389,Septicemia NOS,Unspecified septicemia,264446,Septicemia (except in labor),1
-10013,165520,2,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",264446,Acute myocardial infarction,1
-10013,165520,3,78551,Cardiogenic shock,Cardiogenic shock,264446,Shock,1
-10013,165520,4,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",264446,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
-10013,165520,5,42731,Atrial fibrillation,Atrial fibrillation,264446,Cardiac dysrhythmias,1
-10013,165520,6,20280,Oth lymp unsp xtrndl org,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites",264446,Non-Hodgkin`s lymphoma,0
-10013,165520,7,4240,Mitral valve disorder,Mitral valve disorders,264446,Heart valve disorders,0
-10013,165520,9,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,264446,Disorders of lipid metabolism,1
